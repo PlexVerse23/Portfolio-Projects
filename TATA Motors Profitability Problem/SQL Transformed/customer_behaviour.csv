@@ -1,0 +1,1001 @@
+car_model,salesperson_id,age_group,customer_gender,customer_income_group,customer_residence_type,is_first_time_buyer,loyalty_program_member,discount_reason,feedback_score,car_type,car_img_url,fuel_type,transmission,safety_rating,seating_capacity
+TataModel_25,371,"Mature Adults",Male,High,Urban,FALSE,FALSE,Clearance,7.82,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_32,179,"Senior Adults",Female,Low,Rural,FALSE,TRUE,"New Model Launch",2.68,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_24,208,"Mature Adults",Female,High,Rural,TRUE,TRUE,"New Model Launch",4.19,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_10,639,"Senior Adults",Male,Medium,Urban,TRUE,FALSE,"No Discount",8.65,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_7,739,"Early Mid-Age",Male,Medium,Suburban,TRUE,FALSE,"No Discount",2.67,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_35,522,"Senior Adults",Male,Low,Urban,TRUE,TRUE,Festival,5.06,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_18,52,"Young Adults",Female,Low,Suburban,FALSE,FALSE,Festival,1.75,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_8,567,"Early Mid-Age",Female,Low,Rural,TRUE,FALSE,"No Discount",7.93,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_17,309,"Young Adults",Female,Low,Urban,TRUE,FALSE,"No Discount",2.14,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_44,331,"Young Adults",Female,Low,Suburban,TRUE,FALSE,"New Model Launch",8.01,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_24,896,"Mature Adults",Other,High,Suburban,FALSE,TRUE,Clearance,2.1,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_2,524,"Young Adults",Male,Low,Urban,TRUE,FALSE,Festival,7.76,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_48,891,"Mature Adults",Female,Low,Rural,FALSE,FALSE,Festival,4.98,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_9,202,"Senior Adults",Female,Medium,Suburban,FALSE,TRUE,Festival,5.05,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_32,417,"Early Mid-Age",Female,High,Urban,FALSE,TRUE,"New Model Launch",8.19,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_24,681,"Senior Adults",Female,Low,Urban,FALSE,FALSE,"New Model Launch",9.7,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_11,72,"Young Adults",Female,Low,Suburban,FALSE,TRUE,"New Model Launch",8.93,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_15,377,"Senior Adults",Other,Low,Urban,FALSE,FALSE,"New Model Launch",4.18,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_31,469,"Early Mid-Age",Other,High,Rural,TRUE,FALSE,"No Discount",4.24,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_34,589,"Mature Adults",Male,Low,Suburban,FALSE,FALSE,"New Model Launch",4.41,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_37,107,"Senior Adults",Other,Medium,Urban,TRUE,FALSE,Festival,5.49,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_47,527,"Mature Adults",Male,Low,Suburban,FALSE,FALSE,Clearance,5.27,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_12,599,"Young Adults",Other,Low,Suburban,TRUE,FALSE,Festival,6.95,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_28,243,"Young Adults",Male,Medium,Rural,TRUE,TRUE,Clearance,6.57,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_25,142,"Young Adults",Other,Medium,Suburban,TRUE,TRUE,"No Discount",1.27,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_13,822,"Senior Adults",Male,High,Rural,TRUE,TRUE,"New Model Launch",7.59,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_20,186,"Mature Adults",Male,High,Suburban,FALSE,FALSE,Festival,8.21,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_33,854,"Young Adults",Other,Medium,Rural,TRUE,TRUE,Clearance,4.91,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_27,601,"Young Adults",Female,Low,Suburban,TRUE,FALSE,"No Discount",4.13,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_38,554,"Early Mid-Age",Male,Medium,Urban,FALSE,FALSE,Clearance,1.23,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_48,739,"Young Adults",Female,Medium,Suburban,FALSE,FALSE,Festival,9.85,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_42,308,"Senior Adults",Female,Medium,Suburban,TRUE,FALSE,"No Discount",6.78,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_14,771,"Mature Adults",Female,High,Rural,FALSE,TRUE,Clearance,5.99,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_25,778,"Early Mid-Age",Other,Medium,Urban,FALSE,TRUE,Clearance,7.66,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_40,438,"Young Adults",Other,Low,Suburban,FALSE,FALSE,Festival,1.85,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_28,759,"Early Mid-Age",Male,Low,Suburban,FALSE,FALSE,"New Model Launch",4.15,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_42,664,"Mature Adults",Male,Medium,Urban,FALSE,FALSE,"New Model Launch",1.07,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_44,161,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,Festival,7.23,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_31,599,"Mature Adults",Male,Low,Suburban,FALSE,TRUE,Festival,3.87,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_43,878,"Mature Adults",Female,High,Rural,TRUE,FALSE,Clearance,8.06,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_33,620,"Early Mid-Age",Male,High,Rural,FALSE,TRUE,"No Discount",9.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_28,741,"Senior Adults",Female,Medium,Suburban,TRUE,FALSE,"No Discount",7.3,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_44,506,"Senior Adults",Male,Medium,Urban,TRUE,TRUE,Festival,5.83,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_45,54,"Mature Adults",Female,Low,Rural,TRUE,FALSE,"New Model Launch",7.58,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_6,938,"Senior Adults",Other,High,Suburban,TRUE,FALSE,Festival,4.91,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_14,263,"Mature Adults",Other,Low,Suburban,TRUE,FALSE,Clearance,3.74,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_44,236,"Early Mid-Age",Female,High,Urban,TRUE,TRUE,Clearance,3.45,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_43,755,"Early Mid-Age",Other,High,Urban,FALSE,FALSE,Clearance,2.43,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_45,645,"Mature Adults",Female,Low,Rural,TRUE,FALSE,Festival,5.38,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_10,208,"Early Mid-Age",Female,Low,Urban,FALSE,TRUE,"New Model Launch",2.85,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_45,927,"Young Adults",Male,Low,Rural,FALSE,FALSE,Festival,8.95,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_18,370,"Early Mid-Age",Other,High,Urban,TRUE,TRUE,"No Discount",3.49,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_5,174,"Senior Adults",Female,Low,Rural,FALSE,FALSE,"No Discount",6.34,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_33,728,"Senior Adults",Other,High,Urban,TRUE,TRUE,"No Discount",4.22,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_27,787,"Senior Adults",Female,Medium,Urban,FALSE,TRUE,"No Discount",5.5,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_50,892,"Mature Adults",Female,Low,Rural,FALSE,TRUE,"No Discount",6.11,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_25,670,"Young Adults",Female,High,Suburban,TRUE,FALSE,Clearance,5.16,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_25,469,"Young Adults",Female,Medium,Urban,FALSE,TRUE,Festival,6.68,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_35,811,"Early Mid-Age",Male,Low,Urban,TRUE,TRUE,Festival,5.5,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_22,818,"Mature Adults",Other,High,Suburban,TRUE,TRUE,Clearance,9.83,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_38,410,"Young Adults",Female,Low,Rural,TRUE,TRUE,Festival,8.18,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_32,705,"Young Adults",Other,Low,Suburban,FALSE,FALSE,"New Model Launch",3.85,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_20,928,"Senior Adults",Female,Low,Rural,FALSE,FALSE,Clearance,8.04,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_39,604,"Senior Adults",Female,Low,Rural,FALSE,FALSE,Festival,2.56,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_18,558,"Young Adults",Other,Low,Urban,FALSE,FALSE,"No Discount",4.12,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_40,949,"Early Mid-Age",Male,High,Suburban,FALSE,TRUE,"No Discount",4.76,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_32,775,"Senior Adults",Female,High,Suburban,FALSE,TRUE,"No Discount",5.28,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_6,412,"Young Adults",Other,Medium,Rural,TRUE,FALSE,"New Model Launch",5.28,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_30,459,"Mature Adults",Male,High,Rural,TRUE,TRUE,"No Discount",9.86,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_7,289,"Senior Adults",Other,Medium,Rural,TRUE,TRUE,"No Discount",4.05,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_45,431,"Mature Adults",Other,High,Urban,TRUE,TRUE,Clearance,4.24,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_34,86,"Mature Adults",Female,High,Urban,FALSE,FALSE,Clearance,6.47,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_30,676,"Early Mid-Age",Other,Medium,Suburban,FALSE,TRUE,Clearance,8.53,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_12,815,"Young Adults",Other,Low,Suburban,TRUE,TRUE,"New Model Launch",2.39,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_19,982,"Young Adults",Male,Low,Rural,TRUE,FALSE,Festival,7.07,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_11,307,"Early Mid-Age",Male,High,Urban,FALSE,FALSE,"New Model Launch",8.25,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_42,784,"Senior Adults",Male,High,Urban,FALSE,TRUE,Clearance,6.15,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_10,630,"Senior Adults",Female,Medium,Rural,TRUE,FALSE,"No Discount",4.18,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_15,639,"Mature Adults",Female,Medium,Urban,TRUE,FALSE,"No Discount",3.75,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_23,143,"Early Mid-Age",Female,High,Rural,TRUE,TRUE,Festival,3.62,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_5,923,"Early Mid-Age",Male,Low,Suburban,TRUE,FALSE,Clearance,1.1,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_4,903,"Young Adults",Other,Low,Rural,FALSE,FALSE,"No Discount",2.26,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_17,45,"Early Mid-Age",Other,Low,Suburban,TRUE,TRUE,"No Discount",6.92,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_47,101,"Early Mid-Age",Female,High,Urban,FALSE,FALSE,"New Model Launch",6.17,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_39,689,"Mature Adults",Male,Medium,Rural,FALSE,FALSE,Festival,8.28,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_48,295,"Mature Adults",Male,Low,Suburban,FALSE,TRUE,Festival,2.22,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_24,662,"Young Adults",Male,High,Urban,TRUE,TRUE,"No Discount",8.04,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_8,539,"Early Mid-Age",Other,Low,Rural,TRUE,TRUE,Festival,7.28,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_40,300,"Mature Adults",Male,High,Rural,TRUE,TRUE,"New Model Launch",5.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_33,112,"Senior Adults",Other,Low,Suburban,FALSE,TRUE,"No Discount",8.83,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_24,567,"Early Mid-Age",Female,High,Urban,FALSE,FALSE,"New Model Launch",9.58,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_28,155,"Senior Adults",Female,Medium,Urban,FALSE,FALSE,"New Model Launch",8.42,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_8,637,"Mature Adults",Female,Medium,Urban,TRUE,FALSE,"New Model Launch",2.15,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_39,382,"Mature Adults",Other,High,Rural,TRUE,FALSE,Festival,4,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_15,678,"Early Mid-Age",Male,Medium,Urban,FALSE,FALSE,"No Discount",9.24,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_26,869,"Senior Adults",Female,Medium,Suburban,FALSE,FALSE,"New Model Launch",7.14,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_29,128,"Mature Adults",Male,Medium,Rural,FALSE,TRUE,Clearance,1.61,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_21,608,"Young Adults",Other,High,Urban,FALSE,TRUE,"No Discount",5.07,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_23,796,"Young Adults",Other,High,Urban,TRUE,FALSE,Clearance,4.98,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_5,820,"Early Mid-Age",Male,Low,Rural,FALSE,TRUE,"No Discount",8.55,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_10,998,"Early Mid-Age",Female,Medium,Suburban,TRUE,FALSE,"New Model Launch",2.65,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_35,547,"Mature Adults",Other,High,Urban,FALSE,TRUE,"New Model Launch",4.35,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_16,157,"Early Mid-Age",Female,Medium,Suburban,TRUE,TRUE,Festival,6.75,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_11,701,"Senior Adults",Male,Low,Rural,TRUE,TRUE,Festival,8.7,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_44,198,"Senior Adults",Male,Low,Suburban,TRUE,TRUE,"No Discount",1.13,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_11,140,"Young Adults",Female,High,Rural,TRUE,FALSE,Festival,1.69,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_46,124,"Senior Adults",Male,Medium,Rural,FALSE,FALSE,Clearance,8.22,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_28,529,"Early Mid-Age",Other,High,Suburban,FALSE,TRUE,"No Discount",9.72,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_14,215,"Early Mid-Age",Other,High,Suburban,TRUE,TRUE,Clearance,6.02,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_28,946,"Mature Adults",Female,High,Urban,TRUE,FALSE,Clearance,4.14,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_30,447,"Senior Adults",Female,Medium,Suburban,FALSE,FALSE,"New Model Launch",2.68,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_7,352,"Early Mid-Age",Other,Low,Urban,FALSE,FALSE,Festival,5.68,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_43,234,"Mature Adults",Other,Medium,Urban,TRUE,TRUE,Festival,2.72,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_18,289,"Senior Adults",Other,High,Urban,TRUE,FALSE,"New Model Launch",4.54,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_30,943,"Early Mid-Age",Other,Medium,Suburban,FALSE,FALSE,"No Discount",3.92,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_44,177,"Early Mid-Age",Other,Low,Rural,TRUE,TRUE,Festival,3.59,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_12,490,"Mature Adults",Male,Medium,Urban,TRUE,FALSE,"New Model Launch",8.12,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_2,547,"Young Adults",Other,High,Suburban,TRUE,FALSE,Festival,5.45,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_4,536,"Senior Adults",Other,Low,Rural,TRUE,TRUE,"No Discount",2.68,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_36,865,"Early Mid-Age",Other,High,Suburban,TRUE,TRUE,"New Model Launch",4.1,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_1,258,"Senior Adults",Female,Medium,Rural,FALSE,TRUE,Clearance,4.35,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_21,870,"Senior Adults",Other,High,Rural,TRUE,TRUE,Festival,6.11,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_22,773,"Senior Adults",Female,High,Rural,FALSE,TRUE,"No Discount",5.57,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_34,797,"Mature Adults",Male,High,Rural,TRUE,TRUE,Clearance,9.37,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_37,924,"Senior Adults",Female,Medium,Urban,FALSE,TRUE,Festival,3.27,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_8,47,"Early Mid-Age",Other,High,Urban,FALSE,TRUE,Clearance,6.24,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_12,233,"Early Mid-Age",Male,Medium,Rural,FALSE,TRUE,"New Model Launch",8.14,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_28,120,"Young Adults",Female,High,Rural,FALSE,FALSE,"New Model Launch",9.32,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_7,645,"Senior Adults",Female,High,Rural,TRUE,TRUE,"No Discount",6.36,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_25,430,"Mature Adults",Female,High,Rural,FALSE,TRUE,Festival,9.83,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_29,526,"Senior Adults",Female,High,Urban,TRUE,FALSE,"New Model Launch",1.09,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_25,789,"Young Adults",Male,Medium,Rural,TRUE,TRUE,"New Model Launch",7,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_28,446,"Mature Adults",Male,High,Urban,TRUE,TRUE,Clearance,4.98,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_5,183,"Young Adults",Female,Medium,Rural,FALSE,TRUE,Clearance,1.36,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_34,590,"Young Adults",Male,Medium,Rural,TRUE,TRUE,Festival,5.96,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_37,840,"Senior Adults",Female,Medium,Rural,FALSE,TRUE,"No Discount",4.26,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_17,40,"Senior Adults",Male,High,Suburban,FALSE,TRUE,"New Model Launch",6.85,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_15,874,"Early Mid-Age",Female,High,Urban,FALSE,FALSE,Festival,8.28,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_28,814,"Early Mid-Age",Male,Low,Urban,FALSE,TRUE,"New Model Launch",1.64,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_21,506,"Senior Adults",Female,Low,Suburban,FALSE,TRUE,"New Model Launch",6.99,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_47,600,"Senior Adults",Other,High,Suburban,TRUE,FALSE,"No Discount",2.94,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_31,164,"Young Adults",Other,Low,Rural,TRUE,TRUE,Clearance,1.57,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_14,265,"Young Adults",Female,Low,Urban,FALSE,TRUE,Festival,7.29,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_25,439,"Young Adults",Female,Medium,Rural,FALSE,TRUE,Clearance,5.36,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_27,922,"Senior Adults",Female,Low,Urban,TRUE,TRUE,"No Discount",1.29,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_6,360,"Mature Adults",Male,Low,Suburban,TRUE,TRUE,"New Model Launch",5.18,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_49,544,"Mature Adults",Other,High,Rural,TRUE,TRUE,"New Model Launch",7.5,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_49,705,"Mature Adults",Male,Low,Suburban,TRUE,FALSE,Clearance,2.51,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_17,397,"Young Adults",Female,Medium,Suburban,TRUE,FALSE,"No Discount",6.59,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_5,981,"Young Adults",Male,Low,Rural,TRUE,FALSE,"New Model Launch",5.04,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_14,628,"Mature Adults",Male,Low,Rural,FALSE,TRUE,"No Discount",7.35,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_18,222,"Senior Adults",Other,Medium,Suburban,FALSE,FALSE,"New Model Launch",6.05,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_32,419,"Early Mid-Age",Male,Low,Suburban,TRUE,FALSE,Festival,7.33,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_39,397,"Senior Adults",Male,Low,Suburban,FALSE,TRUE,Festival,4.49,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_19,816,"Early Mid-Age",Female,Medium,Suburban,FALSE,FALSE,Clearance,7.37,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_43,343,"Mature Adults",Male,High,Suburban,TRUE,TRUE,Festival,4.47,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_39,961,"Mature Adults",Male,Medium,Rural,FALSE,FALSE,Festival,9.39,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_25,64,"Young Adults",Male,Medium,Suburban,TRUE,FALSE,Clearance,5.13,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_44,109,"Mature Adults",Other,High,Urban,FALSE,TRUE,"No Discount",9.93,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_8,480,"Mature Adults",Male,Medium,Urban,FALSE,FALSE,"New Model Launch",6.3,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_36,119,"Senior Adults",Male,High,Rural,TRUE,FALSE,Clearance,6.49,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_28,755,"Early Mid-Age",Female,Medium,Suburban,FALSE,TRUE,"No Discount",4.36,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_40,721,"Senior Adults",Male,Medium,Suburban,TRUE,TRUE,Festival,4.54,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_3,864,"Early Mid-Age",Other,Medium,Suburban,FALSE,FALSE,"New Model Launch",4.25,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_14,447,"Mature Adults",Female,High,Urban,TRUE,TRUE,"New Model Launch",4.39,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_42,257,"Mature Adults",Male,Medium,Suburban,FALSE,TRUE,"No Discount",9.72,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_29,512,"Young Adults",Female,Medium,Suburban,FALSE,TRUE,Clearance,7.19,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_8,543,"Mature Adults",Male,High,Suburban,FALSE,TRUE,"New Model Launch",2.99,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_15,919,"Early Mid-Age",Female,High,Suburban,TRUE,TRUE,"New Model Launch",4.35,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_50,960,"Early Mid-Age",Female,High,Suburban,FALSE,FALSE,Festival,4.37,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_38,66,"Young Adults",Male,High,Urban,TRUE,FALSE,"No Discount",5.19,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_48,66,"Senior Adults",Male,Low,Suburban,FALSE,TRUE,"No Discount",7.25,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_13,964,"Senior Adults",Female,Medium,Suburban,FALSE,TRUE,"No Discount",1.67,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_36,748,"Senior Adults",Female,High,Rural,FALSE,TRUE,"No Discount",8.28,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_6,535,"Young Adults",Other,Medium,Suburban,FALSE,FALSE,"No Discount",1.16,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_47,431,"Young Adults",Other,Medium,Urban,TRUE,FALSE,Festival,9.17,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_34,181,"Senior Adults",Male,High,Suburban,TRUE,TRUE,Festival,5.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_43,768,"Young Adults",Female,Low,Suburban,TRUE,TRUE,Clearance,5.11,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_15,328,"Young Adults",Male,Low,Suburban,FALSE,TRUE,"No Discount",9.5,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_47,413,"Senior Adults",Female,Medium,Urban,FALSE,TRUE,"No Discount",2.69,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_16,362,"Senior Adults",Female,Low,Suburban,TRUE,FALSE,"No Discount",3.78,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_45,448,"Early Mid-Age",Other,High,Suburban,FALSE,TRUE,"No Discount",7.12,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_29,391,"Mature Adults",Male,Medium,Rural,TRUE,TRUE,"New Model Launch",3.35,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_2,532,"Mature Adults",Male,High,Rural,FALSE,FALSE,"New Model Launch",5.87,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_11,390,"Mature Adults",Female,High,Urban,TRUE,TRUE,"New Model Launch",2.71,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_16,964,"Senior Adults",Other,Low,Urban,FALSE,FALSE,"New Model Launch",7.66,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_16,450,"Early Mid-Age",Male,High,Rural,TRUE,FALSE,Clearance,8.17,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_15,740,"Senior Adults",Other,Low,Urban,TRUE,FALSE,"No Discount",6.15,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_22,578,"Young Adults",Female,Medium,Rural,TRUE,FALSE,"No Discount",4.32,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_33,411,"Senior Adults",Other,Medium,Rural,FALSE,FALSE,"No Discount",9,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_1,296,"Early Mid-Age",Other,Low,Rural,FALSE,FALSE,Clearance,4.22,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_2,399,"Mature Adults",Female,Medium,Urban,TRUE,FALSE,Clearance,7.48,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_31,706,"Early Mid-Age",Male,Medium,Urban,TRUE,FALSE,Clearance,6.62,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_18,348,"Early Mid-Age",Other,Low,Rural,FALSE,TRUE,"No Discount",4.52,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_22,479,"Mature Adults",Male,Medium,Rural,FALSE,TRUE,"No Discount",9.4,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_34,785,"Senior Adults",Male,Medium,Suburban,FALSE,TRUE,Clearance,6.19,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_16,770,"Young Adults",Other,High,Urban,TRUE,TRUE,"No Discount",9.15,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_28,729,"Senior Adults",Male,High,Rural,TRUE,FALSE,"No Discount",4.6,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_49,515,"Young Adults",Other,Medium,Suburban,TRUE,FALSE,Clearance,3.59,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_43,176,"Young Adults",Other,Low,Urban,FALSE,FALSE,"No Discount",9.66,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_14,483,"Early Mid-Age",Male,Medium,Urban,FALSE,FALSE,Festival,3.2,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_19,835,"Young Adults",Female,High,Urban,TRUE,FALSE,Clearance,3.65,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_8,357,"Young Adults",Male,Low,Suburban,TRUE,FALSE,"No Discount",5.52,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_16,671,"Young Adults",Male,High,Rural,TRUE,TRUE,Clearance,6.56,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_24,640,"Mature Adults",Male,Low,Urban,FALSE,FALSE,"New Model Launch",5.89,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_9,347,"Mature Adults",Female,Medium,Rural,TRUE,FALSE,"New Model Launch",8.04,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_17,322,"Young Adults",Female,Low,Rural,TRUE,FALSE,Clearance,1.16,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_28,764,"Senior Adults",Female,High,Rural,FALSE,TRUE,Clearance,3.72,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_17,616,"Senior Adults",Other,High,Urban,TRUE,FALSE,Festival,7.6,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_25,159,"Early Mid-Age",Male,High,Rural,TRUE,FALSE,Festival,8.52,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_43,690,"Young Adults",Female,High,Suburban,FALSE,FALSE,Festival,2.21,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_4,526,"Early Mid-Age",Male,Medium,Suburban,FALSE,TRUE,"New Model Launch",5.58,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_3,695,"Senior Adults",Female,High,Rural,TRUE,TRUE,Festival,7.38,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_16,18,"Early Mid-Age",Male,Low,Rural,FALSE,TRUE,Clearance,4.24,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_20,437,"Young Adults",Female,Medium,Rural,FALSE,TRUE,Festival,7.12,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_16,232,"Young Adults",Other,Medium,Suburban,TRUE,TRUE,Clearance,6.54,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_37,53,"Mature Adults",Other,Medium,Rural,FALSE,FALSE,Festival,3.21,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_16,302,"Senior Adults",Male,High,Rural,TRUE,FALSE,"No Discount",3.64,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_7,233,"Senior Adults",Female,Low,Rural,TRUE,TRUE,Festival,5.22,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_41,885,"Young Adults",Other,Low,Rural,FALSE,FALSE,"New Model Launch",4.66,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_24,856,"Mature Adults",Other,High,Rural,FALSE,TRUE,"New Model Launch",3.17,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_27,376,"Early Mid-Age",Female,Low,Suburban,TRUE,TRUE,"No Discount",5.72,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_12,526,"Early Mid-Age",Female,Low,Rural,TRUE,FALSE,"No Discount",8.32,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_45,443,"Mature Adults",Other,Low,Rural,FALSE,TRUE,Festival,2.94,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_6,164,"Young Adults",Female,High,Rural,TRUE,FALSE,"No Discount",8.39,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_31,566,"Senior Adults",Male,High,Urban,FALSE,TRUE,Festival,4.54,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_10,909,"Early Mid-Age",Other,High,Rural,TRUE,TRUE,Clearance,5.58,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_14,955,"Young Adults",Female,Medium,Rural,TRUE,TRUE,"No Discount",9.53,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_5,463,"Early Mid-Age",Male,Low,Rural,FALSE,TRUE,"New Model Launch",8.58,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_7,656,"Senior Adults",Other,High,Suburban,FALSE,FALSE,Clearance,1.9,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_32,772,"Mature Adults",Male,Low,Urban,FALSE,TRUE,"New Model Launch",4.34,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_4,581,"Senior Adults",Female,High,Suburban,TRUE,TRUE,"New Model Launch",3.08,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_19,424,"Early Mid-Age",Other,High,Rural,FALSE,FALSE,Festival,3.38,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_2,53,"Senior Adults",Other,Medium,Rural,FALSE,FALSE,Festival,3.78,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_38,59,"Mature Adults",Other,Low,Rural,TRUE,TRUE,"No Discount",6.29,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_44,205,"Mature Adults",Female,Medium,Urban,FALSE,TRUE,"No Discount",2.26,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_15,668,"Mature Adults",Other,High,Suburban,FALSE,FALSE,"New Model Launch",3.79,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_35,821,"Senior Adults",Female,High,Rural,TRUE,TRUE,Clearance,6.42,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_26,403,"Senior Adults",Male,High,Rural,FALSE,TRUE,Festival,6.31,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_11,672,"Early Mid-Age",Female,High,Rural,TRUE,FALSE,"No Discount",6.43,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_12,12,"Mature Adults",Female,High,Suburban,FALSE,TRUE,"No Discount",5.89,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_11,464,"Mature Adults",Male,High,Rural,TRUE,TRUE,"New Model Launch",7.29,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_37,675,"Mature Adults",Other,High,Rural,TRUE,TRUE,Clearance,9.3,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_28,849,"Early Mid-Age",Male,Medium,Urban,FALSE,TRUE,"New Model Launch",1.43,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_18,527,"Mature Adults",Male,Medium,Urban,FALSE,TRUE,"No Discount",4.52,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_34,105,"Early Mid-Age",Male,Medium,Urban,FALSE,FALSE,"No Discount",1.29,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_34,232,"Young Adults",Female,Low,Urban,TRUE,FALSE,"New Model Launch",1.25,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_17,571,"Mature Adults",Female,Medium,Rural,TRUE,TRUE,Clearance,5.26,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_30,79,"Mature Adults",Female,Medium,Rural,FALSE,TRUE,Festival,7.68,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_47,81,"Senior Adults",Male,High,Rural,TRUE,TRUE,"New Model Launch",2.01,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_14,983,"Senior Adults",Male,Medium,Suburban,TRUE,TRUE,Festival,9.2,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_37,557,"Mature Adults",Other,Medium,Suburban,TRUE,FALSE,Festival,5.64,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_19,433,"Mature Adults",Female,Medium,Urban,FALSE,FALSE,"No Discount",6.3,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_2,993,"Mature Adults",Male,Low,Suburban,TRUE,TRUE,Clearance,3.59,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_4,893,"Senior Adults",Male,High,Suburban,TRUE,TRUE,Festival,5.99,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_5,201,"Senior Adults",Male,Medium,Rural,FALSE,TRUE,"New Model Launch",10,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_11,81,"Senior Adults",Other,Medium,Urban,FALSE,FALSE,Festival,4.16,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_22,528,"Early Mid-Age",Other,Low,Suburban,FALSE,FALSE,Clearance,8.1,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_44,638,"Early Mid-Age",Other,Low,Urban,FALSE,FALSE,"New Model Launch",1.75,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_1,978,"Senior Adults",Other,Medium,Suburban,FALSE,FALSE,"New Model Launch",9.72,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_3,842,"Mature Adults",Male,Low,Urban,TRUE,TRUE,Clearance,3.7,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_5,848,"Mature Adults",Other,Medium,Rural,FALSE,FALSE,"No Discount",8.38,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_23,55,"Early Mid-Age",Male,Low,Rural,TRUE,TRUE,"No Discount",4.29,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_19,709,"Early Mid-Age",Male,High,Suburban,TRUE,FALSE,Festival,2.25,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_44,313,"Senior Adults",Male,Low,Rural,TRUE,TRUE,"New Model Launch",7.27,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_7,765,"Mature Adults",Other,Low,Suburban,FALSE,TRUE,Clearance,8.96,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_40,855,"Mature Adults",Male,Medium,Rural,FALSE,FALSE,Festival,9.51,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_26,755,"Senior Adults",Other,Low,Suburban,FALSE,FALSE,"No Discount",4.01,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_32,844,"Early Mid-Age",Female,High,Urban,FALSE,FALSE,"New Model Launch",5.49,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_48,521,"Young Adults",Other,High,Urban,TRUE,FALSE,Festival,5.42,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_8,602,"Early Mid-Age",Female,High,Rural,FALSE,TRUE,"New Model Launch",7.97,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_39,322,"Early Mid-Age",Female,Low,Urban,TRUE,FALSE,Clearance,2.61,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_7,416,"Young Adults",Female,Low,Urban,TRUE,FALSE,"No Discount",8.15,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_25,971,"Young Adults",Male,Low,Suburban,TRUE,FALSE,Clearance,3.47,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_43,176,"Senior Adults",Female,Low,Urban,TRUE,TRUE,Clearance,2.07,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_13,80,"Senior Adults",Female,Low,Suburban,TRUE,FALSE,"New Model Launch",2.5,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_31,96,"Mature Adults",Male,Medium,Urban,FALSE,FALSE,"New Model Launch",8.92,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_46,837,"Young Adults",Male,High,Rural,TRUE,TRUE,Festival,8,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_34,735,"Early Mid-Age",Female,Medium,Suburban,TRUE,FALSE,"New Model Launch",6.59,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_50,309,"Senior Adults",Female,Medium,Suburban,TRUE,TRUE,"No Discount",6.13,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_33,391,"Mature Adults",Male,Medium,Suburban,TRUE,FALSE,Clearance,3.85,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_4,110,"Early Mid-Age",Male,Low,Urban,TRUE,FALSE,Festival,9.08,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_32,678,"Mature Adults",Male,Low,Suburban,FALSE,TRUE,"No Discount",2.45,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_29,691,"Early Mid-Age",Female,Medium,Rural,FALSE,TRUE,Festival,5.95,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_18,332,"Mature Adults",Female,Low,Urban,FALSE,TRUE,"No Discount",1.21,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_40,867,"Young Adults",Other,High,Urban,FALSE,TRUE,Clearance,9.92,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_18,564,"Young Adults",Female,Medium,Rural,TRUE,FALSE,Clearance,9.24,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_24,573,"Early Mid-Age",Other,Low,Rural,FALSE,TRUE,"No Discount",1.94,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_14,81,"Young Adults",Other,High,Rural,TRUE,TRUE,Festival,7.68,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_39,722,"Mature Adults",Male,Medium,Suburban,FALSE,TRUE,"No Discount",9.54,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_35,460,"Senior Adults",Male,High,Rural,TRUE,FALSE,Festival,5.42,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_28,867,"Senior Adults",Female,High,Urban,TRUE,FALSE,"New Model Launch",4.64,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_4,606,"Early Mid-Age",Female,Low,Rural,FALSE,TRUE,Clearance,6.2,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_40,975,"Senior Adults",Male,Low,Suburban,TRUE,TRUE,"New Model Launch",9.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_12,247,"Early Mid-Age",Other,Medium,Suburban,FALSE,FALSE,Festival,1.27,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_41,269,"Senior Adults",Male,Low,Urban,TRUE,FALSE,"No Discount",6.9,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_8,103,"Early Mid-Age",Male,High,Suburban,TRUE,FALSE,"New Model Launch",3.52,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_5,775,"Young Adults",Female,Low,Suburban,FALSE,TRUE,"New Model Launch",5.06,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_27,870,"Young Adults",Male,Low,Urban,FALSE,FALSE,Clearance,2.06,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_47,885,"Mature Adults",Male,Low,Rural,FALSE,FALSE,"No Discount",3.23,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_7,158,"Mature Adults",Other,Low,Suburban,FALSE,TRUE,"New Model Launch",1.08,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_42,676,"Early Mid-Age",Other,High,Suburban,TRUE,TRUE,"No Discount",8.09,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_39,25,"Senior Adults",Male,Medium,Rural,TRUE,TRUE,"New Model Launch",6.5,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_37,694,"Early Mid-Age",Male,High,Suburban,FALSE,TRUE,"New Model Launch",1.63,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_23,517,"Young Adults",Other,Low,Suburban,TRUE,FALSE,"New Model Launch",5.18,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_1,236,"Early Mid-Age",Male,High,Urban,TRUE,TRUE,Clearance,7.49,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_19,152,"Senior Adults",Male,Medium,Urban,FALSE,TRUE,Festival,7.41,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_19,431,"Mature Adults",Other,Medium,Rural,TRUE,FALSE,Festival,3.34,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_3,672,"Senior Adults",Female,Low,Suburban,TRUE,TRUE,"New Model Launch",8.77,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_20,941,"Senior Adults",Other,Medium,Rural,TRUE,FALSE,Clearance,2.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_41,157,"Early Mid-Age",Male,High,Urban,TRUE,FALSE,"New Model Launch",1.68,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_40,707,"Young Adults",Other,Medium,Suburban,FALSE,TRUE,Clearance,6.69,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_29,419,"Early Mid-Age",Other,Low,Suburban,FALSE,TRUE,"New Model Launch",8.83,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_50,510,"Mature Adults",Male,Low,Suburban,TRUE,FALSE,Festival,4.45,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_19,388,"Senior Adults",Male,Medium,Suburban,TRUE,TRUE,"New Model Launch",7.44,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_2,5,"Early Mid-Age",Other,Medium,Rural,FALSE,FALSE,Clearance,3.33,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_34,61,"Mature Adults",Other,High,Rural,FALSE,FALSE,"New Model Launch",9.51,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_41,635,"Mature Adults",Other,High,Rural,FALSE,TRUE,"No Discount",9.89,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_8,324,"Early Mid-Age",Other,Medium,Rural,TRUE,TRUE,"No Discount",9.28,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_4,549,"Early Mid-Age",Female,Medium,Rural,TRUE,TRUE,Festival,7.58,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_7,201,"Young Adults",Male,High,Rural,FALSE,FALSE,"No Discount",8.12,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_26,37,"Mature Adults",Male,Low,Urban,TRUE,TRUE,Clearance,6.88,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_18,423,"Early Mid-Age",Other,High,Urban,TRUE,FALSE,"New Model Launch",4.12,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_34,314,"Senior Adults",Female,Low,Rural,FALSE,FALSE,"No Discount",1.32,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_43,521,"Young Adults",Male,High,Urban,TRUE,TRUE,Festival,7.4,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_43,170,"Mature Adults",Female,High,Urban,FALSE,FALSE,Festival,1.82,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_14,820,"Young Adults",Other,Medium,Rural,TRUE,FALSE,"New Model Launch",1.88,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_39,587,"Early Mid-Age",Other,Low,Suburban,FALSE,FALSE,Festival,4.08,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_1,28,"Senior Adults",Male,Low,Rural,TRUE,TRUE,Festival,4.99,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_2,178,"Mature Adults",Other,Low,Urban,TRUE,TRUE,Festival,1.08,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_25,930,"Early Mid-Age",Male,High,Urban,FALSE,FALSE,"No Discount",5.67,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_9,576,"Senior Adults",Other,Low,Urban,FALSE,FALSE,"No Discount",5.54,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_26,998,"Early Mid-Age",Male,High,Rural,FALSE,FALSE,Clearance,2.94,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_27,8,"Mature Adults",Other,High,Urban,FALSE,FALSE,"New Model Launch",2.8,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_40,318,"Early Mid-Age",Female,High,Urban,FALSE,FALSE,"New Model Launch",7.61,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_35,70,"Early Mid-Age",Male,High,Urban,TRUE,FALSE,"New Model Launch",9.37,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_12,555,"Early Mid-Age",Other,Medium,Urban,FALSE,TRUE,Festival,7.1,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_20,424,"Mature Adults",Male,High,Rural,TRUE,TRUE,"No Discount",1.38,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_12,135,"Early Mid-Age",Other,High,Suburban,FALSE,TRUE,Clearance,7.73,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_32,429,"Senior Adults",Female,Medium,Urban,FALSE,TRUE,Festival,2.01,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_17,380,"Early Mid-Age",Female,Medium,Rural,TRUE,FALSE,Clearance,5.28,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_49,32,"Early Mid-Age",Other,High,Urban,TRUE,TRUE,"No Discount",1.67,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_50,1,"Early Mid-Age",Male,Low,Urban,FALSE,FALSE,Clearance,5,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_45,741,"Young Adults",Other,Medium,Urban,TRUE,TRUE,"No Discount",2.2,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_13,163,"Mature Adults",Female,High,Rural,TRUE,FALSE,Clearance,6.59,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_6,804,"Early Mid-Age",Male,Medium,Rural,FALSE,TRUE,"No Discount",8.27,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_44,418,"Young Adults",Female,Medium,Rural,FALSE,FALSE,"No Discount",5.06,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_33,230,"Early Mid-Age",Other,High,Urban,FALSE,TRUE,"New Model Launch",9.36,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_20,341,"Young Adults",Male,Medium,Suburban,FALSE,FALSE,Clearance,9.69,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_2,284,"Early Mid-Age",Male,Medium,Suburban,TRUE,TRUE,"New Model Launch",2.86,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_4,270,"Young Adults",Female,Low,Suburban,TRUE,FALSE,"New Model Launch",8.93,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_16,211,"Mature Adults",Other,High,Rural,FALSE,FALSE,"No Discount",4.53,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_38,122,"Senior Adults",Other,High,Urban,FALSE,TRUE,"New Model Launch",7.74,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_37,619,"Early Mid-Age",Female,Low,Suburban,FALSE,FALSE,"New Model Launch",4.9,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_46,944,"Senior Adults",Female,Low,Suburban,TRUE,FALSE,"No Discount",6.28,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_28,573,"Mature Adults",Other,Medium,Rural,TRUE,TRUE,Festival,8.59,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_38,524,"Senior Adults",Other,High,Suburban,FALSE,TRUE,"New Model Launch",6.95,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_35,823,"Senior Adults",Other,Low,Urban,TRUE,TRUE,Clearance,5.9,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_26,28,"Senior Adults",Other,Medium,Rural,FALSE,FALSE,Clearance,9.26,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_5,806,"Senior Adults",Other,Low,Suburban,TRUE,TRUE,"New Model Launch",2.61,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_1,620,"Early Mid-Age",Other,Low,Urban,FALSE,TRUE,"No Discount",9.19,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_36,756,"Senior Adults",Female,Low,Urban,TRUE,FALSE,Clearance,4.81,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_22,161,"Early Mid-Age",Male,Low,Urban,FALSE,TRUE,"New Model Launch",7.79,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_26,820,"Young Adults",Female,Low,Suburban,TRUE,FALSE,"New Model Launch",3.47,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_37,59,"Early Mid-Age",Male,Medium,Urban,FALSE,TRUE,Clearance,4.31,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_47,635,"Young Adults",Male,High,Rural,TRUE,FALSE,"No Discount",5.87,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_30,120,"Mature Adults",Other,Low,Urban,TRUE,TRUE,Clearance,2.17,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_8,751,"Mature Adults",Other,Low,Rural,FALSE,FALSE,Clearance,4.41,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_37,428,"Early Mid-Age",Male,High,Suburban,FALSE,TRUE,"No Discount",7.09,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_45,597,"Senior Adults",Other,Medium,Rural,TRUE,TRUE,Festival,4.23,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_4,43,"Mature Adults",Male,High,Suburban,FALSE,TRUE,Festival,1.17,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_13,302,"Senior Adults",Other,Medium,Rural,FALSE,TRUE,"No Discount",1.28,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_40,876,"Young Adults",Other,High,Suburban,FALSE,FALSE,"New Model Launch",8.08,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_4,211,"Young Adults",Male,Low,Suburban,TRUE,FALSE,"New Model Launch",3.85,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_14,559,"Young Adults",Other,Medium,Rural,TRUE,FALSE,Clearance,5.75,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_30,14,"Young Adults",Female,Medium,Suburban,TRUE,FALSE,Festival,9.07,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_3,103,"Early Mid-Age",Male,High,Rural,FALSE,TRUE,Clearance,1.67,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_38,743,"Young Adults",Male,Medium,Urban,TRUE,FALSE,"New Model Launch",3.05,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_49,598,"Mature Adults",Other,High,Suburban,FALSE,FALSE,Festival,4.63,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_41,732,"Senior Adults",Other,Low,Suburban,TRUE,FALSE,Clearance,9.83,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_49,964,"Young Adults",Other,Low,Rural,TRUE,FALSE,"New Model Launch",2.16,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_13,431,"Early Mid-Age",Female,Medium,Suburban,TRUE,FALSE,"New Model Launch",3.74,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_37,312,"Senior Adults",Other,Medium,Suburban,TRUE,FALSE,Festival,8.46,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_36,932,"Young Adults",Other,High,Rural,FALSE,FALSE,"New Model Launch",6.29,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_19,811,"Young Adults",Female,Low,Suburban,FALSE,TRUE,"New Model Launch",6.14,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_47,475,"Early Mid-Age",Female,Medium,Urban,FALSE,FALSE,"New Model Launch",6.78,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_42,983,"Mature Adults",Female,High,Suburban,FALSE,TRUE,"New Model Launch",5.65,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_45,290,"Young Adults",Other,Medium,Urban,TRUE,TRUE,Clearance,1.54,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_4,9,"Young Adults",Male,Low,Urban,TRUE,TRUE,Festival,9.17,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_36,655,"Mature Adults",Female,Low,Suburban,FALSE,FALSE,Clearance,4.55,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_12,35,"Early Mid-Age",Male,Medium,Rural,FALSE,TRUE,"No Discount",7.4,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_50,176,"Early Mid-Age",Other,Medium,Urban,TRUE,TRUE,Festival,3.58,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_22,435,"Early Mid-Age",Other,Medium,Urban,FALSE,FALSE,"New Model Launch",3.75,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_36,949,"Early Mid-Age",Female,High,Suburban,FALSE,FALSE,"No Discount",4.5,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_36,364,"Mature Adults",Male,High,Suburban,FALSE,FALSE,Clearance,8.36,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_32,41,"Mature Adults",Other,Medium,Urban,FALSE,FALSE,Clearance,5.32,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_21,880,"Mature Adults",Other,Medium,Suburban,TRUE,FALSE,"No Discount",6.57,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_14,834,"Young Adults",Other,Low,Urban,TRUE,FALSE,"New Model Launch",3.35,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_35,842,"Young Adults",Female,High,Rural,FALSE,FALSE,Clearance,3.42,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_5,338,"Early Mid-Age",Other,Low,Rural,FALSE,TRUE,"No Discount",6.58,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_27,670,"Senior Adults",Other,Low,Rural,FALSE,FALSE,"New Model Launch",5.03,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_21,552,"Early Mid-Age",Female,High,Urban,TRUE,FALSE,"No Discount",3.98,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_19,431,"Senior Adults",Other,Medium,Urban,TRUE,FALSE,Festival,6.59,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_5,332,"Mature Adults",Female,High,Urban,FALSE,TRUE,Festival,5.66,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_1,405,"Young Adults",Male,Low,Urban,TRUE,FALSE,Festival,5.52,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_22,393,"Mature Adults",Other,Low,Suburban,TRUE,FALSE,Festival,2.84,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_26,93,"Early Mid-Age",Other,High,Urban,FALSE,TRUE,Festival,8.8,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_32,113,"Senior Adults",Female,Medium,Rural,FALSE,TRUE,"New Model Launch",6.75,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_24,80,"Mature Adults",Female,High,Suburban,TRUE,TRUE,"New Model Launch",7.98,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_15,13,"Senior Adults",Female,High,Rural,TRUE,FALSE,"No Discount",8.34,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_5,416,"Early Mid-Age",Female,High,Rural,FALSE,FALSE,"No Discount",8.29,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_1,477,"Mature Adults",Other,High,Urban,TRUE,FALSE,Clearance,4.09,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_32,938,"Mature Adults",Male,Low,Urban,FALSE,TRUE,"No Discount",7.66,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_15,749,"Mature Adults",Female,Medium,Rural,TRUE,TRUE,Festival,8.18,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_40,302,"Mature Adults",Male,Low,Rural,FALSE,FALSE,Clearance,2.8,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_21,115,"Early Mid-Age",Other,Medium,Suburban,FALSE,TRUE,"No Discount",1.53,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_24,954,"Senior Adults",Male,Medium,Urban,TRUE,FALSE,Clearance,7.57,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_30,311,"Young Adults",Male,High,Urban,FALSE,TRUE,"New Model Launch",5.18,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_35,881,"Young Adults",Other,High,Rural,FALSE,FALSE,"No Discount",6.16,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_37,997,"Mature Adults",Male,Low,Rural,TRUE,TRUE,"New Model Launch",2.62,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_50,90,"Young Adults",Female,Low,Rural,FALSE,TRUE,Clearance,7.46,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_33,292,"Senior Adults",Female,Low,Rural,TRUE,TRUE,Festival,4.31,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_8,882,"Senior Adults",Male,Low,Suburban,TRUE,TRUE,"No Discount",2.53,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_47,603,"Young Adults",Other,High,Urban,TRUE,TRUE,Clearance,9.93,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_37,639,"Early Mid-Age",Other,Low,Urban,FALSE,TRUE,"No Discount",8.93,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_31,173,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,Clearance,8.36,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_19,820,"Young Adults",Female,High,Rural,TRUE,FALSE,Festival,8.94,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_23,439,"Early Mid-Age",Male,High,Rural,FALSE,FALSE,Clearance,4.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_10,368,"Early Mid-Age",Female,Medium,Urban,FALSE,FALSE,"New Model Launch",9.67,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_16,136,"Early Mid-Age",Female,Medium,Rural,TRUE,FALSE,"New Model Launch",7.64,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_1,247,"Senior Adults",Male,High,Suburban,FALSE,FALSE,"No Discount",5.36,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_35,856,"Mature Adults",Male,Low,Rural,FALSE,TRUE,Clearance,5.31,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_2,169,"Early Mid-Age",Male,Low,Urban,FALSE,FALSE,Clearance,7.54,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_27,312,"Young Adults",Other,High,Suburban,TRUE,TRUE,Clearance,2.34,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_36,750,"Senior Adults",Female,Low,Urban,TRUE,TRUE,Clearance,7.01,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_19,168,"Senior Adults",Female,High,Urban,FALSE,FALSE,Clearance,9.28,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_1,122,"Senior Adults",Other,Low,Urban,FALSE,FALSE,"New Model Launch",8.29,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_26,587,"Mature Adults",Female,High,Rural,TRUE,FALSE,"No Discount",8.97,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_26,140,"Early Mid-Age",Female,Low,Suburban,TRUE,FALSE,"No Discount",7.98,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_17,729,"Mature Adults",Other,High,Rural,FALSE,FALSE,"New Model Launch",1.7,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_16,929,"Mature Adults",Female,High,Rural,TRUE,FALSE,Clearance,2.89,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_49,670,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,Festival,5.19,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_45,854,"Senior Adults",Female,Low,Rural,TRUE,FALSE,Festival,2.73,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_16,179,"Senior Adults",Other,Low,Urban,FALSE,TRUE,Festival,6.08,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_50,471,"Senior Adults",Female,Medium,Rural,FALSE,FALSE,"No Discount",7.98,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_14,831,"Senior Adults",Female,Medium,Urban,TRUE,TRUE,Festival,6.13,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_26,363,"Senior Adults",Other,Low,Suburban,FALSE,TRUE,"No Discount",3.82,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_12,939,"Early Mid-Age",Male,Low,Rural,FALSE,TRUE,Clearance,4.35,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_16,947,"Senior Adults",Other,Low,Urban,FALSE,TRUE,"No Discount",2.14,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_2,911,"Senior Adults",Other,High,Urban,TRUE,TRUE,"No Discount",1.33,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_16,189,"Senior Adults",Other,Medium,Urban,FALSE,FALSE,Festival,4.93,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_41,806,"Senior Adults",Male,High,Suburban,FALSE,FALSE,"New Model Launch",4,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_31,910,"Mature Adults",Female,Medium,Urban,FALSE,TRUE,Clearance,1.51,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_28,903,"Mature Adults",Other,High,Rural,FALSE,FALSE,"New Model Launch",1.32,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_22,227,"Senior Adults",Female,High,Suburban,TRUE,TRUE,"No Discount",7.26,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_8,937,"Mature Adults",Male,Medium,Suburban,TRUE,TRUE,"New Model Launch",3.51,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_5,240,"Early Mid-Age",Other,Medium,Suburban,FALSE,TRUE,"New Model Launch",1.79,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_22,410,"Early Mid-Age",Other,High,Suburban,TRUE,FALSE,"No Discount",3.69,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_14,110,"Early Mid-Age",Female,Medium,Urban,TRUE,FALSE,"New Model Launch",8.77,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_21,484,"Early Mid-Age",Male,Low,Urban,TRUE,FALSE,Clearance,3.08,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_13,481,"Mature Adults",Other,High,Suburban,FALSE,FALSE,Clearance,4.12,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_26,126,"Senior Adults",Female,Low,Suburban,TRUE,FALSE,Festival,5.98,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_8,736,"Young Adults",Other,Medium,Urban,TRUE,FALSE,Festival,8.34,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_47,260,"Mature Adults",Other,Low,Suburban,TRUE,TRUE,"New Model Launch",5.06,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_10,860,"Senior Adults",Other,Low,Rural,TRUE,FALSE,"No Discount",3.8,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_5,624,"Mature Adults",Female,Low,Rural,TRUE,TRUE,Festival,2.08,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_49,574,"Senior Adults",Male,Medium,Suburban,TRUE,FALSE,Festival,2.4,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_18,756,"Young Adults",Male,Medium,Suburban,TRUE,TRUE,Clearance,9.6,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_6,763,"Early Mid-Age",Male,High,Suburban,FALSE,TRUE,"No Discount",4.48,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_11,792,"Young Adults",Male,Low,Rural,TRUE,FALSE,"No Discount",3.55,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_36,792,"Mature Adults",Male,High,Suburban,TRUE,FALSE,"New Model Launch",7.55,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_20,364,"Mature Adults",Female,High,Urban,FALSE,FALSE,Festival,8.82,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_33,255,"Mature Adults",Female,High,Suburban,FALSE,TRUE,"No Discount",1.83,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_10,564,"Early Mid-Age",Other,High,Rural,FALSE,FALSE,Clearance,9.6,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_18,913,"Early Mid-Age",Male,Medium,Urban,FALSE,TRUE,"No Discount",5.13,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_29,7,"Early Mid-Age",Female,High,Suburban,FALSE,TRUE,Clearance,5.49,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_25,91,"Senior Adults",Other,Medium,Rural,FALSE,FALSE,Clearance,6.07,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_48,484,"Young Adults",Other,High,Suburban,TRUE,FALSE,"New Model Launch",5.9,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_46,964,"Mature Adults",Male,Medium,Urban,TRUE,TRUE,Festival,2.48,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_16,731,"Mature Adults",Female,Medium,Urban,FALSE,FALSE,Clearance,6.97,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_39,54,"Senior Adults",Male,Medium,Suburban,FALSE,FALSE,"New Model Launch",2.25,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_23,379,"Mature Adults",Female,High,Urban,FALSE,TRUE,"No Discount",8.26,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_4,88,"Young Adults",Female,Low,Suburban,FALSE,FALSE,"New Model Launch",8.38,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_22,736,"Early Mid-Age",Other,Low,Suburban,TRUE,TRUE,Festival,6.48,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_28,690,"Young Adults",Male,Low,Suburban,FALSE,FALSE,Clearance,6.59,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_37,37,"Senior Adults",Male,High,Rural,FALSE,TRUE,Clearance,1.93,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_43,328,"Early Mid-Age",Female,High,Urban,FALSE,FALSE,"No Discount",9.65,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_38,569,"Early Mid-Age",Male,High,Urban,TRUE,FALSE,"No Discount",8.85,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_22,569,"Senior Adults",Female,High,Suburban,FALSE,FALSE,Clearance,5.37,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_10,647,"Young Adults",Female,High,Rural,FALSE,TRUE,Festival,4.65,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_28,831,"Early Mid-Age",Other,Low,Urban,FALSE,TRUE,Clearance,8.34,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_33,318,"Senior Adults",Female,Medium,Rural,FALSE,TRUE,"No Discount",6.69,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_43,952,"Young Adults",Female,Medium,Rural,FALSE,FALSE,"New Model Launch",3.04,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_39,987,"Mature Adults",Male,High,Urban,FALSE,TRUE,Clearance,5.37,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_44,528,"Senior Adults",Other,Low,Urban,TRUE,TRUE,"New Model Launch",1.72,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_36,684,"Young Adults",Other,High,Suburban,FALSE,TRUE,Festival,2.61,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_18,327,"Mature Adults",Female,High,Rural,FALSE,FALSE,Clearance,1.74,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_13,208,"Early Mid-Age",Male,High,Urban,TRUE,TRUE,Festival,5.24,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_30,526,"Senior Adults",Female,Medium,Rural,TRUE,TRUE,Festival,2.68,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_22,459,"Early Mid-Age",Other,Medium,Suburban,FALSE,TRUE,Festival,4.78,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_26,769,"Early Mid-Age",Other,High,Urban,TRUE,TRUE,Clearance,2.73,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_47,205,"Senior Adults",Male,High,Rural,TRUE,TRUE,Clearance,8.21,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_49,540,"Young Adults",Other,Low,Suburban,TRUE,FALSE,Clearance,8.39,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_6,782,"Senior Adults",Female,High,Rural,FALSE,FALSE,Clearance,4.13,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_26,983,"Mature Adults",Other,High,Urban,FALSE,TRUE,"New Model Launch",9.55,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_13,389,"Senior Adults",Male,Low,Suburban,FALSE,TRUE,"New Model Launch",6.25,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_39,818,"Young Adults",Female,High,Urban,TRUE,FALSE,"No Discount",7.14,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_9,305,"Senior Adults",Female,High,Rural,FALSE,TRUE,"New Model Launch",6,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_1,719,"Mature Adults",Male,Medium,Suburban,FALSE,FALSE,Clearance,4.39,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_18,408,"Senior Adults",Female,High,Rural,TRUE,TRUE,Clearance,2.32,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_26,752,"Senior Adults",Male,High,Rural,FALSE,TRUE,Clearance,7.18,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_17,77,"Mature Adults",Male,Low,Rural,TRUE,TRUE,Festival,6.47,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_40,738,"Senior Adults",Female,High,Suburban,FALSE,FALSE,Festival,3.82,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_39,904,"Early Mid-Age",Male,High,Suburban,FALSE,FALSE,Festival,2.85,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_23,916,"Senior Adults",Female,Medium,Suburban,FALSE,TRUE,"New Model Launch",2.67,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_8,535,"Mature Adults",Other,Medium,Urban,TRUE,FALSE,Clearance,9.77,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_35,896,"Young Adults",Other,High,Urban,TRUE,TRUE,"No Discount",7.1,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_41,750,"Mature Adults",Female,Medium,Urban,TRUE,FALSE,Festival,6.77,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_28,636,"Senior Adults",Male,High,Urban,FALSE,TRUE,"No Discount",4.44,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_50,147,"Senior Adults",Male,High,Rural,FALSE,FALSE,Clearance,6.8,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_41,658,"Early Mid-Age",Male,High,Rural,FALSE,FALSE,Festival,1.54,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_34,596,"Early Mid-Age",Male,High,Rural,FALSE,FALSE,Clearance,4.82,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_20,181,"Early Mid-Age",Female,High,Suburban,FALSE,FALSE,"No Discount",5.23,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_48,473,"Mature Adults",Other,High,Rural,TRUE,FALSE,"New Model Launch",5.04,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_30,691,"Mature Adults",Male,Medium,Urban,FALSE,FALSE,Clearance,6.94,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_27,484,"Young Adults",Other,High,Suburban,FALSE,TRUE,Clearance,6.74,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_37,741,"Senior Adults",Female,Low,Suburban,FALSE,TRUE,"New Model Launch",7.07,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_33,468,"Mature Adults",Male,High,Rural,TRUE,FALSE,"New Model Launch",5.92,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_36,40,"Senior Adults",Male,High,Rural,TRUE,TRUE,Festival,4.86,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_37,284,"Young Adults",Male,High,Rural,TRUE,FALSE,"No Discount",3.16,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_8,696,"Mature Adults",Other,Low,Urban,FALSE,TRUE,Festival,3.24,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_31,624,"Senior Adults",Other,Medium,Suburban,TRUE,TRUE,Festival,2.74,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_7,486,"Young Adults",Other,Medium,Urban,FALSE,FALSE,Festival,8.31,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_33,431,"Early Mid-Age",Other,High,Rural,FALSE,FALSE,Clearance,6.78,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_30,616,"Senior Adults",Male,Low,Rural,TRUE,FALSE,Festival,5.02,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_4,195,"Early Mid-Age",Other,Medium,Urban,TRUE,TRUE,"New Model Launch",5.93,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_6,965,"Early Mid-Age",Male,High,Suburban,TRUE,FALSE,"No Discount",2.15,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_27,380,"Mature Adults",Male,High,Rural,FALSE,TRUE,Clearance,8.89,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_25,147,"Senior Adults",Female,High,Rural,TRUE,TRUE,Clearance,3.52,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_36,719,"Mature Adults",Other,Low,Suburban,TRUE,TRUE,Clearance,7.32,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_37,396,"Early Mid-Age",Female,Medium,Suburban,TRUE,TRUE,Clearance,7.99,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_7,59,"Early Mid-Age",Male,High,Suburban,FALSE,TRUE,"No Discount",5.05,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_16,902,"Mature Adults",Male,Medium,Suburban,TRUE,FALSE,"No Discount",2.04,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_16,362,"Young Adults",Male,Medium,Suburban,TRUE,FALSE,Festival,7.38,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_5,738,"Early Mid-Age",Female,Low,Urban,FALSE,TRUE,"New Model Launch",1.16,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_34,476,"Senior Adults",Female,Medium,Suburban,TRUE,FALSE,Festival,3.09,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_15,6,"Early Mid-Age",Female,High,Urban,TRUE,TRUE,"No Discount",3.64,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_43,121,"Mature Adults",Male,Low,Urban,FALSE,TRUE,Clearance,1.17,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_46,445,"Young Adults",Male,Low,Rural,TRUE,TRUE,Clearance,6.07,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_45,282,"Mature Adults",Other,Medium,Urban,TRUE,TRUE,Festival,8.19,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_7,507,"Mature Adults",Other,High,Rural,FALSE,FALSE,"New Model Launch",7.76,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_14,391,"Mature Adults",Female,High,Rural,TRUE,FALSE,Festival,2.58,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_3,244,"Young Adults",Male,Medium,Urban,FALSE,FALSE,Clearance,9.36,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_45,801,"Mature Adults",Other,Low,Suburban,FALSE,TRUE,"New Model Launch",6.25,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_18,285,"Senior Adults",Female,High,Urban,TRUE,TRUE,"No Discount",4.58,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_34,758,"Senior Adults",Other,High,Rural,FALSE,TRUE,Festival,1.74,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_8,948,"Young Adults",Other,Medium,Urban,TRUE,FALSE,Clearance,3.85,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_11,541,"Mature Adults",Male,Medium,Rural,TRUE,FALSE,"New Model Launch",2.53,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_31,568,"Mature Adults",Male,Medium,Rural,FALSE,FALSE,"No Discount",7.92,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_7,366,"Mature Adults",Other,Medium,Urban,TRUE,TRUE,Festival,9.37,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_40,996,"Young Adults",Male,Medium,Urban,FALSE,FALSE,"New Model Launch",5.38,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_17,473,"Mature Adults",Female,High,Rural,FALSE,TRUE,"New Model Launch",5.11,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_46,652,"Senior Adults",Female,Low,Rural,FALSE,FALSE,Festival,8.54,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_22,356,"Early Mid-Age",Female,Medium,Suburban,TRUE,TRUE,Festival,4.27,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_36,860,"Young Adults",Male,High,Urban,FALSE,TRUE,"New Model Launch",2.89,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_39,3,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,"No Discount",5.69,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_45,797,"Early Mid-Age",Female,Low,Rural,FALSE,FALSE,Clearance,1.62,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_26,519,"Early Mid-Age",Other,Low,Urban,TRUE,TRUE,"New Model Launch",1.28,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_13,991,"Early Mid-Age",Other,High,Suburban,FALSE,FALSE,Clearance,3.96,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_1,616,"Senior Adults",Other,Medium,Suburban,TRUE,FALSE,"New Model Launch",6.3,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_9,562,"Mature Adults",Female,High,Suburban,FALSE,FALSE,"No Discount",3.4,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_30,918,"Mature Adults",Male,High,Urban,FALSE,FALSE,Festival,1.25,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_33,545,"Senior Adults",Other,High,Rural,TRUE,TRUE,Festival,6.14,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_20,887,"Senior Adults",Other,Low,Rural,TRUE,TRUE,Clearance,3.53,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_35,439,"Early Mid-Age",Male,Medium,Suburban,TRUE,FALSE,"New Model Launch",5.85,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_23,950,"Young Adults",Other,Medium,Suburban,FALSE,FALSE,"No Discount",7.95,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_41,557,"Senior Adults",Male,High,Rural,TRUE,FALSE,"No Discount",7.38,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_46,437,"Senior Adults",Female,High,Rural,TRUE,TRUE,Festival,7.7,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_9,216,"Senior Adults",Other,Medium,Urban,FALSE,FALSE,"New Model Launch",9.32,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_39,132,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,Clearance,9.82,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_35,290,"Early Mid-Age",Other,High,Suburban,FALSE,FALSE,Clearance,8.77,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_27,907,"Early Mid-Age",Other,Medium,Rural,FALSE,TRUE,Clearance,3.29,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_44,772,"Young Adults",Male,Medium,Rural,FALSE,FALSE,Festival,1.15,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_43,270,"Mature Adults",Male,Low,Rural,TRUE,FALSE,"No Discount",4.3,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_15,775,"Early Mid-Age",Other,Low,Suburban,TRUE,TRUE,"No Discount",8.72,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_44,629,"Young Adults",Other,High,Rural,FALSE,FALSE,"No Discount",2.01,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_23,130,"Early Mid-Age",Other,Medium,Rural,TRUE,FALSE,"No Discount",6.42,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_36,96,"Early Mid-Age",Female,Low,Rural,TRUE,TRUE,"No Discount",8.31,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_20,575,"Senior Adults",Male,Medium,Suburban,TRUE,FALSE,Festival,9.65,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_9,518,"Senior Adults",Other,Low,Urban,FALSE,FALSE,"New Model Launch",1.66,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_22,961,"Senior Adults",Male,Medium,Suburban,TRUE,FALSE,Clearance,8.04,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_22,341,"Young Adults",Other,High,Urban,FALSE,TRUE,Clearance,5.39,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_35,490,"Senior Adults",Other,High,Suburban,FALSE,TRUE,Festival,9.94,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_37,473,"Early Mid-Age",Male,Low,Urban,FALSE,FALSE,"No Discount",8.61,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_40,237,"Early Mid-Age",Female,Low,Rural,FALSE,FALSE,"No Discount",2.87,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_24,492,"Early Mid-Age",Male,Low,Suburban,TRUE,FALSE,"New Model Launch",7.66,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_22,141,"Mature Adults",Female,High,Rural,FALSE,TRUE,Festival,6.11,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_8,253,"Early Mid-Age",Female,High,Urban,FALSE,TRUE,Clearance,5.55,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_15,231,"Senior Adults",Female,High,Urban,FALSE,TRUE,"No Discount",4.17,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_21,783,"Early Mid-Age",Other,Low,Urban,FALSE,TRUE,Festival,3.35,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_26,110,"Senior Adults",Female,Low,Suburban,FALSE,TRUE,"New Model Launch",4.11,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_30,467,"Young Adults",Male,High,Urban,FALSE,TRUE,Clearance,8.25,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_28,716,"Senior Adults",Male,High,Rural,FALSE,TRUE,Clearance,5.23,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_10,757,"Senior Adults",Female,High,Suburban,TRUE,TRUE,Festival,5.5,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_47,20,"Early Mid-Age",Male,Medium,Urban,TRUE,FALSE,Festival,8.03,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_29,807,"Early Mid-Age",Male,Low,Rural,FALSE,TRUE,"New Model Launch",1.83,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_41,501,"Early Mid-Age",Male,High,Urban,TRUE,FALSE,"No Discount",5.11,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_20,840,"Early Mid-Age",Male,High,Urban,TRUE,TRUE,Clearance,5.52,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_48,697,"Early Mid-Age",Female,High,Rural,TRUE,FALSE,"New Model Launch",1.47,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_33,410,"Young Adults",Male,High,Rural,TRUE,FALSE,Clearance,3.47,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_21,566,"Mature Adults",Other,High,Urban,TRUE,TRUE,Festival,6.59,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_23,861,"Mature Adults",Other,Low,Urban,TRUE,FALSE,"No Discount",7.79,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_47,715,"Mature Adults",Female,High,Rural,FALSE,FALSE,Clearance,6.08,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_45,805,"Young Adults",Male,Medium,Urban,TRUE,TRUE,"No Discount",6.74,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_45,276,"Young Adults",Female,High,Urban,TRUE,TRUE,Festival,8.08,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_6,313,"Mature Adults",Female,High,Urban,TRUE,TRUE,"No Discount",5.68,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_42,759,"Mature Adults",Female,Low,Suburban,FALSE,FALSE,"No Discount",4.56,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_49,678,"Senior Adults",Female,Low,Suburban,TRUE,TRUE,Clearance,5.2,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_48,540,"Senior Adults",Male,Low,Rural,FALSE,FALSE,Festival,6.06,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_30,380,"Young Adults",Male,Low,Suburban,FALSE,FALSE,Festival,2.57,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_17,397,"Senior Adults",Female,Medium,Rural,FALSE,TRUE,Clearance,4.17,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_5,986,"Young Adults",Female,Medium,Urban,TRUE,FALSE,Clearance,4.89,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_45,234,"Young Adults",Male,Low,Rural,TRUE,FALSE,Festival,6.15,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_26,219,"Early Mid-Age",Male,Medium,Suburban,FALSE,FALSE,Clearance,8.08,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_38,508,"Mature Adults",Female,High,Urban,TRUE,TRUE,"No Discount",1.31,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_15,20,"Senior Adults",Female,Medium,Suburban,TRUE,TRUE,Clearance,8.35,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_6,992,"Early Mid-Age",Male,Low,Urban,TRUE,FALSE,"No Discount",6.2,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_16,147,"Young Adults",Female,Medium,Rural,TRUE,FALSE,Clearance,6.01,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_35,966,"Mature Adults",Male,Low,Suburban,FALSE,TRUE,Clearance,7.55,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_16,105,"Young Adults",Male,Medium,Urban,TRUE,FALSE,Clearance,4.11,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_43,39,"Young Adults",Female,High,Urban,TRUE,FALSE,Festival,6.95,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_25,671,"Early Mid-Age",Other,Low,Suburban,FALSE,FALSE,"No Discount",9.5,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_19,639,"Young Adults",Female,High,Rural,FALSE,FALSE,"No Discount",9.67,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_7,137,"Mature Adults",Other,Low,Urban,FALSE,FALSE,Festival,7.72,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_19,612,"Young Adults",Other,Low,Suburban,TRUE,FALSE,"No Discount",2.52,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_29,592,"Mature Adults",Female,High,Urban,TRUE,TRUE,"No Discount",9.96,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_38,799,"Early Mid-Age",Male,Medium,Rural,FALSE,FALSE,"No Discount",8.99,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_40,757,"Young Adults",Male,Medium,Rural,TRUE,FALSE,"No Discount",1.62,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_33,88,"Mature Adults",Male,Low,Rural,FALSE,FALSE,Festival,1.46,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_13,965,"Young Adults",Female,Medium,Rural,FALSE,FALSE,"New Model Launch",1.68,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_34,52,"Early Mid-Age",Male,Low,Rural,TRUE,FALSE,Clearance,2.99,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_8,742,"Senior Adults",Female,Low,Urban,TRUE,TRUE,Festival,7.26,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_21,790,"Early Mid-Age",Other,Medium,Suburban,FALSE,TRUE,Clearance,5.22,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_16,919,"Mature Adults",Female,Low,Suburban,FALSE,TRUE,"No Discount",6.08,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_11,139,"Senior Adults",Male,Medium,Urban,FALSE,FALSE,Festival,4.93,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_50,630,"Early Mid-Age",Other,Medium,Suburban,TRUE,TRUE,"No Discount",7.49,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_4,183,"Young Adults",Female,High,Rural,TRUE,FALSE,Festival,9.3,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_1,159,"Young Adults",Female,High,Suburban,FALSE,TRUE,"No Discount",5.03,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_16,559,"Early Mid-Age",Male,Low,Rural,FALSE,TRUE,"New Model Launch",1.96,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_34,232,"Senior Adults",Female,High,Suburban,TRUE,FALSE,"New Model Launch",3.42,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_7,971,"Young Adults",Other,Low,Urban,TRUE,FALSE,"No Discount",1.95,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_49,434,"Early Mid-Age",Other,High,Urban,TRUE,TRUE,"No Discount",9.01,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_48,246,"Early Mid-Age",Other,High,Rural,FALSE,FALSE,Festival,8.88,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_44,677,"Young Adults",Male,High,Urban,FALSE,FALSE,Festival,1.81,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_37,696,"Young Adults",Female,Low,Urban,TRUE,FALSE,Festival,7.52,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_36,478,"Young Adults",Female,Medium,Urban,TRUE,TRUE,"No Discount",6,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_22,728,"Early Mid-Age",Other,Medium,Urban,FALSE,FALSE,"No Discount",7.36,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_37,913,"Young Adults",Other,High,Urban,TRUE,TRUE,"No Discount",2.13,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_24,80,"Senior Adults",Female,Low,Urban,TRUE,FALSE,"New Model Launch",1.05,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_49,126,"Young Adults",Other,High,Rural,TRUE,FALSE,"New Model Launch",3.67,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_14,612,"Young Adults",Other,Medium,Urban,TRUE,TRUE,Clearance,1.22,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_16,457,"Mature Adults",Female,Low,Suburban,FALSE,FALSE,Festival,3.6,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_28,247,"Young Adults",Female,High,Suburban,TRUE,TRUE,Festival,2.79,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_34,122,"Senior Adults",Female,Low,Urban,FALSE,FALSE,"No Discount",4.52,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_5,15,"Mature Adults",Female,High,Suburban,FALSE,FALSE,"New Model Launch",9.45,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_17,573,"Senior Adults",Other,High,Suburban,TRUE,TRUE,"No Discount",2.8,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_18,646,"Early Mid-Age",Female,Medium,Rural,TRUE,FALSE,"No Discount",6.04,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_21,376,"Mature Adults",Other,Medium,Urban,FALSE,FALSE,Clearance,3.57,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_37,543,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,Festival,9.41,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_35,372,"Senior Adults",Female,Low,Suburban,TRUE,TRUE,Festival,8.22,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_4,904,"Early Mid-Age",Other,High,Suburban,FALSE,FALSE,Festival,6.13,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_11,353,"Senior Adults",Female,High,Rural,TRUE,TRUE,Clearance,3.47,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_28,651,"Young Adults",Female,Medium,Urban,TRUE,FALSE,Festival,4.84,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_29,363,"Senior Adults",Other,Low,Suburban,TRUE,TRUE,"No Discount",3.69,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_45,840,"Mature Adults",Other,High,Rural,FALSE,TRUE,"No Discount",7.21,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_46,40,"Young Adults",Female,High,Urban,TRUE,FALSE,Festival,7.51,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_37,51,"Mature Adults",Male,Medium,Rural,TRUE,FALSE,Festival,7.07,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_15,940,"Young Adults",Female,High,Suburban,FALSE,FALSE,"No Discount",3.78,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_48,522,"Young Adults",Male,High,Urban,FALSE,TRUE,"No Discount",5.37,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_6,750,"Mature Adults",Female,Low,Suburban,FALSE,TRUE,Clearance,1.16,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_26,578,"Senior Adults",Male,Low,Suburban,FALSE,FALSE,"No Discount",6.81,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_50,19,"Young Adults",Male,Medium,Urban,FALSE,FALSE,"No Discount",1.04,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_5,168,"Senior Adults",Female,Medium,Rural,FALSE,FALSE,Clearance,4.79,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_41,391,"Senior Adults",Other,High,Rural,FALSE,TRUE,"New Model Launch",4.26,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_26,583,"Early Mid-Age",Other,High,Suburban,TRUE,FALSE,"No Discount",7.98,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_8,361,"Young Adults",Other,High,Suburban,TRUE,TRUE,Clearance,8.25,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_43,618,"Senior Adults",Female,Low,Rural,TRUE,TRUE,Clearance,6.17,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_9,802,"Early Mid-Age",Other,Medium,Suburban,FALSE,TRUE,"New Model Launch",1.37,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_21,332,"Early Mid-Age",Other,High,Suburban,TRUE,TRUE,"No Discount",6.88,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_4,860,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,"No Discount",1.45,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_28,305,"Senior Adults",Other,Medium,Urban,TRUE,FALSE,Festival,2.84,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_29,422,"Young Adults",Female,Low,Suburban,TRUE,TRUE,Clearance,8.81,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_48,107,"Early Mid-Age",Other,High,Urban,FALSE,TRUE,Festival,4.19,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_29,594,"Young Adults",Female,Medium,Urban,FALSE,TRUE,Clearance,2.64,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_11,798,"Young Adults",Other,Low,Urban,FALSE,TRUE,Festival,8.72,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_36,484,"Mature Adults",Male,Medium,Suburban,FALSE,TRUE,"New Model Launch",7.74,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_30,916,"Early Mid-Age",Other,Medium,Urban,TRUE,FALSE,"New Model Launch",2.97,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_3,155,"Young Adults",Other,Low,Suburban,TRUE,FALSE,"New Model Launch",7.33,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_1,16,"Young Adults",Other,Low,Rural,FALSE,FALSE,"New Model Launch",4.23,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_18,332,"Mature Adults",Other,High,Urban,FALSE,FALSE,Festival,6.19,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_36,634,"Mature Adults",Male,High,Suburban,FALSE,TRUE,"No Discount",7.82,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_15,490,"Early Mid-Age",Female,Medium,Rural,FALSE,FALSE,Clearance,1.88,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_25,720,"Mature Adults",Male,Low,Urban,FALSE,FALSE,Festival,2.4,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_13,284,"Senior Adults",Male,Low,Urban,FALSE,TRUE,"New Model Launch",8.54,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_26,467,"Mature Adults",Male,High,Urban,TRUE,TRUE,"New Model Launch",4.27,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_37,621,"Young Adults",Male,High,Urban,FALSE,TRUE,Clearance,3.1,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_14,919,"Mature Adults",Other,Low,Rural,TRUE,TRUE,Clearance,3.59,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_13,775,"Mature Adults",Male,Medium,Urban,TRUE,FALSE,"No Discount",5.77,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_25,631,"Early Mid-Age",Female,Low,Urban,TRUE,FALSE,Clearance,9.49,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_46,185,"Early Mid-Age",Male,Medium,Suburban,FALSE,TRUE,Clearance,4.55,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_27,327,"Mature Adults",Other,High,Suburban,TRUE,TRUE,Festival,6.15,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_48,549,"Senior Adults",Other,High,Suburban,TRUE,FALSE,"New Model Launch",7.61,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_8,562,"Mature Adults",Male,High,Suburban,FALSE,FALSE,Clearance,3.81,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_9,381,"Mature Adults",Male,High,Rural,FALSE,FALSE,Festival,6.39,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_20,314,"Young Adults",Other,High,Suburban,FALSE,FALSE,Festival,6.07,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_20.jpg,Diesel,Manual,3.4,8-Seater
+TataModel_17,675,"Senior Adults",Other,High,Rural,TRUE,FALSE,Festival,8.14,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_40,487,"Early Mid-Age",Other,High,Suburban,TRUE,TRUE,Clearance,4.56,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_31,24,"Early Mid-Age",Other,High,Urban,TRUE,FALSE,Clearance,1.87,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_39,932,"Senior Adults",Male,Medium,Urban,TRUE,TRUE,"No Discount",1.52,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_35,879,"Mature Adults",Female,Low,Suburban,TRUE,TRUE,Festival,7.44,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_13,619,"Early Mid-Age",Other,High,Rural,TRUE,FALSE,"New Model Launch",7.89,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_48,14,"Mature Adults",Other,High,Urban,FALSE,TRUE,Clearance,2.38,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_42,46,"Senior Adults",Other,Medium,Rural,TRUE,TRUE,"New Model Launch",8.19,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_35,509,"Early Mid-Age",Male,Low,Rural,FALSE,FALSE,Festival,5.79,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_27,48,"Mature Adults",Other,Low,Urban,TRUE,TRUE,"No Discount",4.75,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_39,380,"Early Mid-Age",Female,Medium,Rural,TRUE,TRUE,"New Model Launch",6.11,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_37,725,"Young Adults",Female,High,Suburban,FALSE,TRUE,Festival,8.92,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_47,819,"Young Adults",Female,Low,Suburban,TRUE,FALSE,"New Model Launch",2.75,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_46,772,"Mature Adults",Other,High,Suburban,TRUE,TRUE,"New Model Launch",2.64,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_31,93,"Senior Adults",Other,High,Urban,TRUE,TRUE,Festival,7.75,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_5,702,"Early Mid-Age",Female,Medium,Urban,FALSE,TRUE,Festival,1.01,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_28,209,"Senior Adults",Female,Medium,Suburban,TRUE,TRUE,"No Discount",2.2,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_22,482,"Senior Adults",Other,Medium,Urban,FALSE,FALSE,"New Model Launch",1.83,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_13,377,"Early Mid-Age",Other,Low,Suburban,FALSE,TRUE,Festival,8.06,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_47,457,"Senior Adults",Male,High,Urban,FALSE,FALSE,"New Model Launch",1.91,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_40,720,"Early Mid-Age",Male,Medium,Urban,TRUE,TRUE,Clearance,3.06,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_7,974,"Early Mid-Age",Male,Medium,Suburban,FALSE,FALSE,"No Discount",4.26,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_23,498,"Senior Adults",Female,High,Rural,TRUE,FALSE,"New Model Launch",4.34,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_32,815,"Senior Adults",Female,High,Urban,TRUE,FALSE,Festival,2.26,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_8,605,"Senior Adults",Other,Low,Urban,TRUE,FALSE,Clearance,2.1,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_39,790,"Early Mid-Age",Female,Medium,Suburban,TRUE,FALSE,"No Discount",3.62,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_19,866,"Mature Adults",Other,Medium,Rural,FALSE,FALSE,Festival,6.75,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_39,58,"Early Mid-Age",Male,Medium,Suburban,TRUE,TRUE,"New Model Launch",8.72,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_35,546,"Senior Adults",Other,Medium,Urban,FALSE,TRUE,"No Discount",4.88,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_28,651,"Young Adults",Other,High,Rural,FALSE,TRUE,"No Discount",4.63,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_2,395,"Senior Adults",Male,High,Urban,FALSE,TRUE,Festival,3.84,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_13,814,"Young Adults",Male,Low,Urban,FALSE,FALSE,"No Discount",2.78,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_2,457,"Mature Adults",Female,Low,Urban,TRUE,TRUE,Festival,3.42,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_44,658,"Mature Adults",Female,Medium,Urban,FALSE,FALSE,Festival,2.61,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_18,321,"Mature Adults",Female,High,Rural,TRUE,TRUE,Festival,7.65,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_28,253,"Senior Adults",Other,High,Suburban,TRUE,FALSE,"New Model Launch",9.52,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_14,376,"Young Adults",Male,Low,Rural,FALSE,FALSE,Festival,2.97,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_29,60,"Young Adults",Other,High,Urban,FALSE,FALSE,Clearance,4.17,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_1,565,"Early Mid-Age",Other,Low,Suburban,TRUE,FALSE,"New Model Launch",3.65,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_18,310,"Senior Adults",Female,High,Rural,FALSE,FALSE,Festival,5.07,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_27,545,"Young Adults",Other,High,Suburban,FALSE,TRUE,"No Discount",8.75,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_11,751,"Early Mid-Age",Other,High,Rural,TRUE,TRUE,Festival,6.22,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_41,860,"Early Mid-Age",Male,Low,Suburban,TRUE,FALSE,"New Model Launch",3.39,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_41,166,"Mature Adults",Male,Medium,Urban,TRUE,FALSE,Clearance,7.69,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_15,757,"Early Mid-Age",Other,Medium,Rural,TRUE,FALSE,Festival,9.7,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_5,760,"Mature Adults",Female,High,Suburban,TRUE,FALSE,"New Model Launch",4.96,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_19,269,"Senior Adults",Female,Low,Rural,TRUE,FALSE,Clearance,7.48,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_29,23,"Senior Adults",Other,Low,Urban,TRUE,FALSE,Clearance,1,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_46,220,"Young Adults",Male,Medium,Suburban,FALSE,TRUE,Festival,9.19,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_40,732,"Young Adults",Male,Medium,Rural,FALSE,FALSE,Clearance,3.78,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_43,220,"Young Adults",Male,Low,Suburban,TRUE,FALSE,"No Discount",8.09,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_13,360,"Mature Adults",Other,High,Urban,TRUE,FALSE,"New Model Launch",1.75,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_8,443,"Young Adults",Male,High,Suburban,TRUE,TRUE,"New Model Launch",6.68,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_36,474,"Young Adults",Male,High,Suburban,FALSE,TRUE,Clearance,6.88,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_10,503,"Mature Adults",Female,Medium,Rural,FALSE,FALSE,"No Discount",6.45,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_13,628,"Mature Adults",Male,Medium,Rural,FALSE,TRUE,Clearance,5.96,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_41,14,"Young Adults",Male,Low,Rural,FALSE,FALSE,"No Discount",4.55,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_47,304,"Senior Adults",Female,Low,Rural,FALSE,TRUE,Clearance,2.84,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_36,224,"Young Adults",Other,High,Rural,TRUE,TRUE,Festival,4.91,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_15,975,"Young Adults",Male,High,Suburban,FALSE,FALSE,"New Model Launch",3.86,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_48,383,"Mature Adults",Male,Low,Rural,FALSE,FALSE,"New Model Launch",9.05,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_1,985,"Mature Adults",Male,Low,Suburban,FALSE,TRUE,Clearance,6.7,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_49,561,"Senior Adults",Female,High,Urban,FALSE,FALSE,"No Discount",3.14,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_12,561,"Mature Adults",Male,Medium,Suburban,TRUE,FALSE,"New Model Launch",2.52,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_17,877,"Mature Adults",Other,High,Rural,TRUE,FALSE,"New Model Launch",3.11,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_31,512,"Senior Adults",Female,High,Suburban,FALSE,TRUE,Clearance,5.73,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_12,121,"Senior Adults",Other,Medium,Urban,TRUE,FALSE,Clearance,6.92,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_19,377,"Early Mid-Age",Female,Low,Rural,FALSE,FALSE,Clearance,1.94,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_38,127,"Young Adults",Other,High,Rural,TRUE,FALSE,Festival,7.15,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_12,15,"Senior Adults",Other,Medium,Rural,TRUE,FALSE,"No Discount",1.5,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_27,996,"Early Mid-Age",Female,Medium,Rural,TRUE,FALSE,"New Model Launch",3.44,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_5,169,"Senior Adults",Other,High,Suburban,TRUE,FALSE,Clearance,4.24,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_38,925,"Early Mid-Age",Other,Low,Rural,FALSE,TRUE,Festival,7.01,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_11,235,"Mature Adults",Other,Medium,Urban,TRUE,TRUE,Clearance,9.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_14,809,"Young Adults",Other,Low,Rural,TRUE,TRUE,"No Discount",7.51,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_34,792,"Senior Adults",Female,High,Suburban,TRUE,FALSE,"No Discount",7.02,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_2,224,"Senior Adults",Other,Medium,Rural,FALSE,FALSE,Festival,2.64,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_16,756,"Early Mid-Age",Female,Medium,Rural,FALSE,TRUE,"No Discount",6.46,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_30,152,"Young Adults",Female,Low,Urban,TRUE,FALSE,Festival,5.22,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_16,66,"Senior Adults",Female,High,Urban,FALSE,TRUE,Clearance,1.23,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_27,918,"Young Adults",Male,Medium,Rural,TRUE,TRUE,Festival,5.94,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_34,950,"Senior Adults",Male,Medium,Rural,FALSE,FALSE,"No Discount",1.4,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_29,129,"Mature Adults",Other,High,Suburban,TRUE,TRUE,Clearance,9.73,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_6,70,"Senior Adults",Female,High,Suburban,FALSE,TRUE,Festival,3.1,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_29,655,"Young Adults",Other,Low,Suburban,TRUE,TRUE,Clearance,3.44,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_15,593,"Senior Adults",Female,Low,Rural,TRUE,FALSE,Clearance,1.11,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_18,279,"Early Mid-Age",Male,Low,Urban,TRUE,FALSE,Clearance,8.92,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_30,330,"Mature Adults",Female,High,Suburban,TRUE,FALSE,Festival,7.69,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_36,295,"Young Adults",Male,Low,Rural,FALSE,FALSE,Clearance,2.78,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_24,957,"Early Mid-Age",Female,Medium,Suburban,TRUE,FALSE,Clearance,7,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_45,701,"Early Mid-Age",Male,High,Urban,TRUE,TRUE,Clearance,3.12,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_2,241,"Early Mid-Age",Male,Medium,Rural,FALSE,TRUE,"New Model Launch",1.86,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_44,540,"Mature Adults",Male,Low,Suburban,FALSE,FALSE,Festival,1.55,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_17,392,"Young Adults",Other,Low,Rural,FALSE,FALSE,"No Discount",1.45,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_13,198,"Mature Adults",Female,High,Rural,FALSE,TRUE,"New Model Launch",7.66,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_17,718,"Mature Adults",Female,Low,Rural,FALSE,TRUE,Festival,2.14,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_45,456,"Senior Adults",Female,High,Urban,FALSE,TRUE,"No Discount",4.42,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_33,198,"Senior Adults",Other,High,Suburban,TRUE,FALSE,"No Discount",1.35,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_11,200,"Early Mid-Age",Female,Medium,Urban,FALSE,TRUE,Clearance,7.86,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_22,566,"Mature Adults",Male,High,Suburban,TRUE,FALSE,"New Model Launch",9.31,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_5,860,"Young Adults",Other,Medium,Rural,FALSE,TRUE,"New Model Launch",2.37,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_50,88,"Young Adults",Female,Medium,Urban,FALSE,FALSE,Clearance,7.44,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_22,924,"Young Adults",Female,High,Urban,FALSE,TRUE,Clearance,5.16,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_4,542,"Mature Adults",Female,High,Urban,FALSE,TRUE,Clearance,7.39,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_7,869,"Early Mid-Age",Female,Medium,Suburban,TRUE,FALSE,Festival,7.61,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_46,854,"Mature Adults",Female,Medium,Suburban,TRUE,FALSE,Clearance,5.63,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_6,952,"Senior Adults",Female,Low,Rural,FALSE,TRUE,"New Model Launch",2.75,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_27,851,"Mature Adults",Other,Low,Rural,TRUE,TRUE,Clearance,9.03,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_30,570,"Senior Adults",Female,Medium,Urban,FALSE,TRUE,Festival,8.51,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_46,977,"Early Mid-Age",Other,Medium,Suburban,FALSE,TRUE,Clearance,4.67,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_19,983,"Young Adults",Female,High,Urban,TRUE,TRUE,Festival,3.69,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_19.jpg,Diesel,Manual,4.3,4-Seater
+TataModel_27,150,"Senior Adults",Other,Low,Suburban,TRUE,TRUE,Clearance,9.59,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_48,922,"Mature Adults",Other,High,Urban,TRUE,FALSE,Clearance,8.11,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_39,931,"Early Mid-Age",Male,High,Suburban,FALSE,FALSE,Festival,4.03,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_48,812,"Senior Adults",Other,High,Urban,FALSE,TRUE,Clearance,1.08,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_9,648,"Mature Adults",Other,Medium,Rural,FALSE,FALSE,Festival,2.13,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_48,428,"Early Mid-Age",Male,Low,Suburban,FALSE,FALSE,"No Discount",7.16,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_37,616,"Early Mid-Age",Other,Medium,Rural,FALSE,TRUE,"No Discount",9.89,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_24,227,"Young Adults",Other,High,Urban,TRUE,TRUE,Festival,4.89,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_27,836,"Mature Adults",Other,Low,Urban,TRUE,FALSE,Clearance,4.95,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_32,275,"Young Adults",Female,Medium,Urban,TRUE,FALSE,"New Model Launch",9.17,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_49,928,"Mature Adults",Male,Low,Suburban,FALSE,FALSE,"New Model Launch",5.43,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_32,860,"Young Adults",Female,High,Rural,FALSE,FALSE,"New Model Launch",5.18,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_35,377,"Senior Adults",Male,Low,Suburban,TRUE,FALSE,Festival,9.58,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_22,604,"Mature Adults",Female,High,Urban,FALSE,FALSE,"New Model Launch",1.02,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_50,863,"Young Adults",Female,Medium,Urban,TRUE,FALSE,"New Model Launch",4.68,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_16,74,"Early Mid-Age",Female,Medium,Urban,FALSE,TRUE,Festival,2.73,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_32,869,"Young Adults",Female,High,Suburban,TRUE,FALSE,"New Model Launch",3.76,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_18,928,"Senior Adults",Female,High,Urban,TRUE,TRUE,Clearance,3.63,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_43,684,"Mature Adults",Female,High,Rural,TRUE,TRUE,Clearance,9.04,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_30,249,"Senior Adults",Other,Medium,Urban,FALSE,TRUE,Clearance,5.69,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_34,897,"Senior Adults",Male,High,Rural,FALSE,TRUE,"No Discount",6.61,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_4,225,"Early Mid-Age",Male,Low,Suburban,TRUE,TRUE,"No Discount",9.81,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_22,871,"Senior Adults",Other,Low,Suburban,TRUE,TRUE,Clearance,2.85,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_24,779,"Mature Adults",Other,Medium,Rural,TRUE,FALSE,Clearance,3.6,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_48,942,"Early Mid-Age",Male,High,Suburban,FALSE,TRUE,Clearance,5.84,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_4,378,"Mature Adults",Female,High,Rural,TRUE,FALSE,"No Discount",8.46,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_37,988,"Young Adults",Other,Medium,Urban,FALSE,FALSE,Festival,8.08,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_22,389,"Mature Adults",Female,High,Urban,FALSE,TRUE,"No Discount",7.27,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_9,381,"Senior Adults",Female,Medium,Suburban,TRUE,FALSE,"New Model Launch",4.64,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_4,330,"Senior Adults",Female,Medium,Urban,TRUE,TRUE,Clearance,3.2,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_31,54,"Early Mid-Age",Female,High,Urban,TRUE,FALSE,"New Model Launch",4.85,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_10,2,"Mature Adults",Other,Medium,Suburban,FALSE,FALSE,Festival,1.48,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_27,311,"Young Adults",Other,High,Suburban,TRUE,TRUE,Festival,2.45,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_2,678,"Senior Adults",Male,Low,Urban,TRUE,TRUE,"No Discount",6.72,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_21,669,"Early Mid-Age",Other,Medium,Rural,TRUE,TRUE,"New Model Launch",8.35,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_29,958,"Young Adults",Male,Low,Rural,TRUE,TRUE,"No Discount",5.69,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_17,780,"Senior Adults",Male,Medium,Suburban,FALSE,TRUE,Festival,8.83,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_44,425,"Early Mid-Age",Other,High,Rural,TRUE,FALSE,"New Model Launch",8.73,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_7,402,"Early Mid-Age",Female,High,Rural,FALSE,FALSE,"New Model Launch",2.02,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_7.jpg,Hybrid,CVT,3.9,7-Seater
+TataModel_3,113,"Senior Adults",Female,Medium,Suburban,TRUE,TRUE,Clearance,8.49,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_3,387,"Mature Adults",Male,High,Urban,FALSE,FALSE,"New Model Launch",9.64,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_25,326,"Senior Adults",Other,Low,Suburban,FALSE,FALSE,Festival,6.68,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_39,646,"Senior Adults",Female,Medium,Suburban,FALSE,TRUE,Clearance,1.33,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_8,613,"Early Mid-Age",Male,Medium,Suburban,FALSE,TRUE,"New Model Launch",4.32,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_28,520,"Mature Adults",Female,Low,Suburban,FALSE,TRUE,Clearance,5.88,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_49,424,"Senior Adults",Male,Medium,Suburban,TRUE,FALSE,"No Discount",5.3,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_48,62,"Senior Adults",Other,High,Urban,FALSE,TRUE,Clearance,4.96,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_25,710,"Senior Adults",Other,High,Suburban,FALSE,TRUE,"No Discount",3.19,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_33,195,"Mature Adults",Female,High,Suburban,TRUE,TRUE,Festival,9.16,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_46,866,"Early Mid-Age",Female,Low,Rural,FALSE,TRUE,Clearance,5.23,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_25,421,"Early Mid-Age",Male,Low,Suburban,TRUE,TRUE,"New Model Launch",1.59,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_21,711,"Young Adults",Male,Low,Urban,FALSE,FALSE,Clearance,1.81,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_14,787,"Early Mid-Age",Male,Low,Suburban,TRUE,TRUE,Clearance,1.8,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_2,47,"Mature Adults",Female,Low,Suburban,FALSE,FALSE,Clearance,2.19,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_24,166,"Mature Adults",Male,High,Rural,FALSE,TRUE,Festival,1.46,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_24.jpg,Hybrid,Manual,4.7,5-Seater
+TataModel_39,881,"Young Adults",Other,Low,Rural,TRUE,FALSE,Festival,6.94,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_35,211,"Mature Adults",Other,High,Rural,FALSE,FALSE,"New Model Launch",1.84,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_25,43,"Young Adults",Other,Low,Suburban,TRUE,FALSE,Clearance,1.57,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_25.jpg,Petrol,CVT,4.8,7-Seater
+TataModel_18,620,"Senior Adults",Female,Low,Rural,TRUE,TRUE,"New Model Launch",5.51,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_18.jpg,Diesel,Automatic,4.2,7-Seater
+TataModel_41,869,"Young Adults",Female,Medium,Suburban,TRUE,FALSE,"No Discount",4.73,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_41.jpg,Electric,Automatic,4,5-Seater
+TataModel_13,244,"Young Adults",Male,Low,Rural,TRUE,TRUE,Festival,8.9,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_8,600,"Senior Adults",Female,Low,Suburban,FALSE,TRUE,"No Discount",7.19,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_16,705,"Mature Adults",Male,High,Rural,FALSE,FALSE,Clearance,7.43,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_17,265,"Mature Adults",Male,Low,Rural,TRUE,FALSE,Festival,6.51,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_28,309,"Early Mid-Age",Male,High,Suburban,FALSE,FALSE,"New Model Launch",3.45,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_44,151,"Senior Adults",Female,Medium,Rural,FALSE,FALSE,"New Model Launch",9.22,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_33,406,"Early Mid-Age",Other,Low,Suburban,TRUE,FALSE,Festival,4.17,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_15,767,"Early Mid-Age",Female,Medium,Urban,FALSE,TRUE,"New Model Launch",5.8,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_6,744,"Early Mid-Age",Male,High,Suburban,TRUE,TRUE,"No Discount",2.28,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_28,528,"Mature Adults",Other,High,Urban,TRUE,FALSE,"New Model Launch",7.01,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_28.jpg,Electric,Automatic,4.5,5-Seater
+TataModel_44,682,"Early Mid-Age",Other,High,Suburban,TRUE,FALSE,Clearance,1.19,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_47,56,"Senior Adults",Female,Medium,Rural,FALSE,TRUE,"New Model Launch",6.21,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_50,646,"Senior Adults",Female,High,Suburban,FALSE,TRUE,"New Model Launch",3.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_17,926,"Mature Adults",Female,High,Urban,FALSE,FALSE,"New Model Launch",9.42,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_21,123,"Young Adults",Male,High,Suburban,TRUE,TRUE,Festival,9.04,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_3,885,"Mature Adults",Male,High,Urban,TRUE,FALSE,Clearance,7.14,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_39,298,"Early Mid-Age",Female,Low,Urban,FALSE,TRUE,"New Model Launch",8.99,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_39.jpg,Electric,Manual,3.9,4-Seater
+TataModel_3,619,"Young Adults",Female,Medium,Urban,TRUE,FALSE,"No Discount",8.77,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_15,39,"Mature Adults",Female,High,Suburban,TRUE,FALSE,"New Model Launch",1.53,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_48,69,"Senior Adults",Other,Medium,Suburban,FALSE,FALSE,Clearance,9.19,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_3,71,"Senior Adults",Other,High,Urban,TRUE,TRUE,Clearance,7.44,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_9,707,"Early Mid-Age",Other,Medium,Suburban,TRUE,FALSE,Festival,1.23,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_23,899,"Early Mid-Age",Other,Low,Suburban,FALSE,TRUE,Clearance,5.68,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_33,231,"Young Adults",Other,High,Suburban,TRUE,FALSE,"New Model Launch",7.8,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_2,107,"Early Mid-Age",Other,Low,Urban,TRUE,TRUE,"New Model Launch",4.26,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_46,208,"Early Mid-Age",Female,Low,Rural,FALSE,FALSE,Clearance,2.37,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_34,497,"Early Mid-Age",Other,Medium,Rural,FALSE,FALSE,Clearance,1.88,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_43,662,"Mature Adults",Other,Medium,Suburban,TRUE,TRUE,Clearance,5.49,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_17,799,"Senior Adults",Other,High,Urban,FALSE,TRUE,"No Discount",5.83,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_15,883,"Early Mid-Age",Male,Low,Rural,TRUE,FALSE,"New Model Launch",9.81,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_3,85,"Mature Adults",Other,Low,Urban,TRUE,FALSE,"No Discount",4.49,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_46,558,"Early Mid-Age",Female,Low,Urban,TRUE,FALSE,Festival,6.69,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_15,994,"Young Adults",Other,High,Rural,FALSE,TRUE,Festival,7.28,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_30,496,"Mature Adults",Male,Low,Urban,TRUE,TRUE,"No Discount",3.06,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_44,116,"Senior Adults",Female,High,Suburban,FALSE,TRUE,Clearance,8.5,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_46,143,"Senior Adults",Female,High,Suburban,FALSE,FALSE,"New Model Launch",6.65,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_46.jpg,Petrol,Manual,2.8,4-Seater
+TataModel_21,568,"Young Adults",Male,Medium,Urban,FALSE,FALSE,Festival,4.47,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_16,52,"Young Adults",Other,Medium,Urban,FALSE,FALSE,"No Discount",1.2,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_16,552,"Early Mid-Age",Other,Low,Urban,FALSE,TRUE,Festival,9.24,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_42,725,"Senior Adults",Other,Low,Rural,TRUE,TRUE,Festival,5.99,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_8,909,"Early Mid-Age",Other,High,Rural,FALSE,TRUE,Clearance,7.18,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_34,267,"Early Mid-Age",Other,High,Suburban,FALSE,FALSE,Festival,7.31,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_26,433,"Early Mid-Age",Other,High,Suburban,FALSE,FALSE,"New Model Launch",6.05,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_14,748,"Early Mid-Age",Female,High,Urban,FALSE,FALSE,Clearance,3.49,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_23,708,"Early Mid-Age",Other,Medium,Urban,FALSE,FALSE,"New Model Launch",5.69,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_9,991,"Mature Adults",Female,Medium,Rural,TRUE,TRUE,Festival,9.58,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_9.jpg,Electric,Automatic,4.2,7-Seater
+TataModel_34,516,"Senior Adults",Male,Low,Rural,TRUE,FALSE,Clearance,3.52,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_34.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_48,671,"Young Adults",Male,High,Suburban,TRUE,TRUE,Clearance,5.15,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_37,386,"Mature Adults",Male,High,Suburban,FALSE,FALSE,"No Discount",4.5,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_22,427,"Senior Adults",Male,Medium,Rural,FALSE,TRUE,"No Discount",2.27,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_43,683,"Young Adults",Female,Medium,Suburban,TRUE,TRUE,Clearance,9.88,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_45,313,"Senior Adults",Female,High,Rural,TRUE,TRUE,"No Discount",9.47,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_31,558,"Senior Adults",Other,Low,Urban,TRUE,FALSE,"New Model Launch",7.11,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_27,670,"Early Mid-Age",Female,Medium,Urban,FALSE,FALSE,"No Discount",2.91,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_11,105,"Young Adults",Female,High,Suburban,TRUE,TRUE,"New Model Launch",4.43,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_11.jpg,Electric,CVT,2.7,8-Seater
+TataModel_40,561,"Mature Adults",Other,Low,Rural,TRUE,FALSE,"New Model Launch",9.72,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_31,601,"Senior Adults",Male,High,Urban,FALSE,FALSE,"New Model Launch",1.5,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_23,307,"Mature Adults",Other,High,Rural,TRUE,FALSE,"No Discount",5.37,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_23.jpg,Hybrid,Manual,4.5,8-Seater
+TataModel_48,282,"Mature Adults",Other,Medium,Suburban,FALSE,TRUE,Clearance,8.49,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_8,263,"Mature Adults",Other,High,Urban,TRUE,FALSE,Clearance,2.94,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_8.jpg,Electric,CVT,4.8,7-Seater
+TataModel_12,763,"Young Adults",Other,High,Suburban,FALSE,TRUE,"New Model Launch",8.4,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_37,378,"Early Mid-Age",Male,High,Rural,FALSE,FALSE,Festival,3.91,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_48,627,"Mature Adults",Other,Low,Urban,TRUE,FALSE,Clearance,9.18,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_21,68,"Senior Adults",Other,Medium,Urban,TRUE,FALSE,Clearance,8.34,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_21.jpg,Electric,CVT,3.2,7-Seater
+TataModel_22,434,"Young Adults",Female,Medium,Suburban,TRUE,TRUE,"New Model Launch",4.85,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_22.jpg,Electric,CVT,4.5,7-Seater
+TataModel_5,957,"Mature Adults",Female,Low,Suburban,TRUE,TRUE,"No Discount",9.12,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_45,755,"Young Adults",Other,High,Urban,TRUE,TRUE,Festival,5.32,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_45.jpg,Hybrid,CVT,3.4,8-Seater
+TataModel_29,152,"Mature Adults",Female,High,Rural,FALSE,TRUE,Clearance,1.79,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_10,384,"Senior Adults",Other,Low,Urban,TRUE,FALSE,"New Model Launch",7.06,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_10.jpg,Hybrid,Automatic,3.9,8-Seater
+TataModel_27,281,"Senior Adults",Other,Low,Urban,TRUE,TRUE,Festival,5.38,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_13,453,"Early Mid-Age",Female,High,Urban,TRUE,TRUE,"No Discount",4.09,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_13.jpg,Electric,Automatic,5,4-Seater
+TataModel_30,890,"Mature Adults",Male,High,Rural,TRUE,TRUE,"New Model Launch",4.2,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_40,352,"Early Mid-Age",Other,Low,Rural,FALSE,TRUE,Clearance,2.68,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_40.jpg,Electric,Automatic,3.2,7-Seater
+TataModel_16,469,"Young Adults",Male,High,Rural,FALSE,TRUE,Festival,5.88,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_3,795,"Mature Adults",Female,Low,Suburban,FALSE,FALSE,"New Model Launch",7.2,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_42,501,"Mature Adults",Male,Medium,Urban,FALSE,FALSE,Clearance,6.46,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_43,599,"Young Adults",Female,Low,Suburban,FALSE,FALSE,"New Model Launch",5.1,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_43.jpg,Hybrid,Automatic,2.6,5-Seater
+TataModel_14,46,"Mature Adults",Male,Low,Suburban,TRUE,TRUE,"New Model Launch",1.17,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_14.jpg,Diesel,Manual,2.9,5-Seater
+TataModel_35,260,"Senior Adults",Other,Medium,Suburban,TRUE,TRUE,Festival,2.7,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_29,67,"Young Adults",Male,Medium,Urban,TRUE,TRUE,Festival,1.47,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_29.jpg,Diesel,Manual,4.1,4-Seater
+TataModel_30,662,"Mature Adults",Other,High,Suburban,FALSE,TRUE,Festival,3.57,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_2,411,"Early Mid-Age",Other,Low,Urban,FALSE,FALSE,"New Model Launch",1.78,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_2.jpg,Diesel,Manual,3.2,5-Seater
+TataModel_1,228,"Early Mid-Age",Female,Low,Suburban,FALSE,FALSE,Clearance,7.5,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_38,999,"Early Mid-Age",Male,Low,Suburban,FALSE,FALSE,Clearance,6.2,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_38.jpg,Diesel,Manual,3.7,5-Seater
+TataModel_4,420,"Senior Adults",Male,High,Rural,FALSE,FALSE,"No Discount",2.88,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_4.jpg,Diesel,Manual,4.6,8-Seater
+TataModel_35,597,"Young Adults",Other,Low,Rural,FALSE,FALSE,"New Model Launch",5.36,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_44,502,"Senior Adults",Male,Low,Rural,TRUE,FALSE,"New Model Launch",1.89,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_44.jpg,Electric,Automatic,4.6,5-Seater
+TataModel_15,57,"Mature Adults",Other,Low,Rural,FALSE,FALSE,Festival,2.67,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_15.jpg,Hybrid,Manual,3.8,8-Seater
+TataModel_37,559,"Senior Adults",Male,Low,Suburban,TRUE,FALSE,"No Discount",8.66,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_37.jpg,Electric,CVT,2.6,5-Seater
+TataModel_1,30,"Senior Adults",Male,Medium,Urban,FALSE,FALSE,"New Model Launch",4.36,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_1.jpg,Hybrid,Automatic,4.6,8-Seater
+TataModel_5,727,"Senior Adults",Male,Medium,Urban,FALSE,FALSE,Clearance,9.31,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_5.jpg,Hybrid,Manual,3.3,8-Seater
+TataModel_27,317,"Early Mid-Age",Other,High,Suburban,FALSE,FALSE,Festival,4.67,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_27.jpg,Hybrid,CVT,3.8,4-Seater
+TataModel_12,152,"Mature Adults",Female,Medium,Suburban,FALSE,TRUE,Festival,9.04,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_32,910,"Early Mid-Age",Male,High,Urban,FALSE,FALSE,Festival,6.91,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_32.jpg,Electric,Automatic,4.7,7-Seater
+TataModel_17,903,"Early Mid-Age",Male,High,Urban,FALSE,TRUE,"New Model Launch",1.4,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_17.jpg,Hybrid,Manual,4.4,5-Seater
+TataModel_49,666,"Young Adults",Female,Low,Suburban,TRUE,TRUE,"New Model Launch",6.2,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_30,774,"Senior Adults",Other,High,Rural,FALSE,FALSE,"New Model Launch",3.04,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_30.jpg,Hybrid,CVT,4.3,5-Seater
+TataModel_47,454,"Young Adults",Female,Low,Rural,TRUE,FALSE,Festival,7.76,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_47.jpg,Petrol,Manual,3.8,8-Seater
+TataModel_49,162,"Early Mid-Age",Female,High,Rural,TRUE,TRUE,"No Discount",2.69,SUV,https://cdn.cars.tatamotors.com/images/suv/tatamodel_49.jpg,Hybrid,Manual,3,4-Seater
+TataModel_36,425,"Mature Adults",Male,Low,Urban,TRUE,FALSE,Clearance,2.93,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_31,508,"Early Mid-Age",Other,Low,Rural,TRUE,FALSE,"New Model Launch",8.49,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_31.jpg,Petrol,Manual,4.5,7-Seater
+TataModel_33,335,"Senior Adults",Other,High,Urban,FALSE,TRUE,"New Model Launch",7.27,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_33.jpg,Hybrid,Automatic,3.3,4-Seater
+TataModel_16,550,"Young Adults",Female,High,Urban,TRUE,FALSE,"New Model Launch",1.79,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_16.jpg,Petrol,Automatic,4.7,5-Seater
+TataModel_6,96,"Mature Adults",Female,Low,Rural,FALSE,TRUE,"New Model Launch",4.89,Sedan,https://cdn.cars.tatamotors.com/images/sedan/tatamodel_6.jpg,Electric,Automatic,2.9,5-Seater
+TataModel_3,812,"Young Adults",Other,Medium,Suburban,TRUE,TRUE,Festival,3.62,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_3.jpg,Hybrid,CVT,3.5,4-Seater
+TataModel_12,373,"Mature Adults",Female,Low,Suburban,FALSE,TRUE,Clearance,9.96,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_12.jpg,Petrol,CVT,4,8-Seater
+TataModel_48,360,"Mature Adults",Other,Medium,Rural,TRUE,TRUE,Festival,1.32,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_48.jpg,Hybrid,Manual,4.4,4-Seater
+TataModel_26,273,"Early Mid-Age",Male,Low,Urban,TRUE,FALSE,"No Discount",5.34,Pickup,https://cdn.cars.tatamotors.com/images/pickup/tatamodel_26.jpg,Petrol,CVT,3.8,5-Seater
+TataModel_35,527,"Senior Adults",Male,Medium,Rural,FALSE,FALSE,Clearance,6.81,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_35.jpg,Electric,Automatic,2.7,4-Seater
+TataModel_36,564,"Senior Adults",Male,Low,Urban,TRUE,FALSE,"No Discount",8.78,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_50,206,"Early Mid-Age",Male,Medium,Urban,TRUE,FALSE,"No Discount",9.86,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater
+TataModel_36,510,"Senior Adults",Female,Low,Urban,FALSE,FALSE,"No Discount",4.74,Coupe,https://cdn.cars.tatamotors.com/images/coupe/tatamodel_36.jpg,Hybrid,Manual,3.9,4-Seater
+TataModel_42,626,"Young Adults",Male,Medium,Suburban,TRUE,FALSE,Festival,1.56,Hatchback,https://cdn.cars.tatamotors.com/images/hatchback/tatamodel_42.jpg,Hybrid,Automatic,2.6,8-Seater
+TataModel_50,202,"Mature Adults",Male,Medium,Urban,TRUE,TRUE,"New Model Launch",1.96,MPV,https://cdn.cars.tatamotors.com/images/mpv/tatamodel_50.jpg,Electric,Automatic,4.1,4-Seater

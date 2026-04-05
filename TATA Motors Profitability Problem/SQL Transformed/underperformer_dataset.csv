@@ -1,0 +1,4 @@
+model_id,total_revenue,total_profit,car_type,price_zone,transmission,fuel_type,horsepower,safety_rating,seating_capacity
+TataModel_30,10035425977.6,1573791050.84,Hatchback,"Tier - 3",CVT,Hybrid,121,4.3,5
+TataModel_4,9752303364.96,1605925154.55,Pickup,"Tier - 1",Manual,Diesel,97,4.6,8
+TataModel_17,9629265281.06,1609701162.83,Coupe,"Tier - 2",Manual,Hybrid,170,4.4,5

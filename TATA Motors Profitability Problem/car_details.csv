@@ -1,0 +1,51 @@
+﻿model_id,model_name,car_img
+TataModel_1,Altroz EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/altroz-ev-exterior-left-front-three-quarter.png
+TataModel_2,Altroz,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/altroz-exterior-right-front-three-quarter-13.png
+TataModel_3,Curvv EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/curvv-ev-exterior-right-front-three-quarter-8.png
+TataModel_4,Curvv,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/curvv-exterior-right-front-three-quarter-16.png
+TataModel_5,Harrier EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-ev-exterior-right-front-three-quarter-58.png
+TataModel_6,Harrier,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-exterior-right-front-three-quarter-7.png
+TataModel_7,Nexon EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-ev-exterior-right-front-three-quarter-80.png
+TataModel_8,Nexon,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-exterior-right-front-three-quarter-79.png
+TataModel_9,Punch EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/punch-ev-facelift-exterior-right-front-three-quarter-2.jpg
+TataModel_10,Punch FACELIFT,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/punch-facelift-exterior-right-front-three-quarter.png
+TataModel_11,Safari,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/safari-exterior-right-front-three-quarter-40.png
+TataModel_12,Sierra,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/sierra-exterior-right-front-three-quarter-61.png
+TataModel_13,Tiago EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-ev-exterior-right-front-three-quarter-15.png
+TataModel_14,Tiago,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-exterior-right-front-three-quarter-34.png
+TataModel_15,Tiago NRG,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-nrg-exterior-right-front-three-quarter-8.png
+TataModel_16,Tigor EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tigor-ev-exterior-right-front-three-quarter-4.png
+TataModel_17,Tigor,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tigor-exterior-right-front-three-quarter-25.png
+TataModel_18,Altroz Sport,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-ev-exterior-right-front-three-quarter-80.png
+TataModel_19,Altroz XZ,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-exterior-right-front-three-quarter-79.png
+TataModel_20,Altroz Dark Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/punch-ev-facelift-exterior-right-front-three-quarter-2.jpg
+TataModel_21,Curvv Adventure,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/safari-exterior-right-front-three-quarter-40.png
+TataModel_22,Curvv XZ+,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/sierra-exterior-right-front-three-quarter-61.png
+TataModel_23,Curvv Dark Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-ev-exterior-right-front-three-quarter-15.png
+TataModel_24,Harrier Adventure Plus,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/curvv-exterior-right-front-three-quarter-16.png
+TataModel_25,Harrier Dark Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/altroz-ev-exterior-left-front-three-quarter.png
+TataModel_26,Harrier XZA+,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-ev-exterior-right-front-three-quarter-15.png
+TataModel_27,Nexon Dark Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-exterior-right-front-three-quarter-34.png
+TataModel_28,Nexon XZ+,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-exterior-right-front-three-quarter-79.png
+TataModel_29,Nexon Fearless,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-exterior-right-front-three-quarter-79.png
+TataModel_30,Punch Adventure,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/curvv-exterior-right-front-three-quarter-16.png
+TataModel_31,Punch Camo Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-ev-exterior-right-front-three-quarter-58.png
+TataModel_32,Punch Accomplished,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-exterior-right-front-three-quarter-7.png
+TataModel_33,Safari Dark Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-nrg-exterior-right-front-three-quarter-8.png
+TataModel_34,Safari Adventure Plus,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-ev-exterior-right-front-three-quarter-58.png
+TataModel_35,Safari Accomplished,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-exterior-right-front-three-quarter-7.png
+TataModel_36,Safari XZA+,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-ev-exterior-right-front-three-quarter-80.png
+TataModel_37,Sierra EV,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/nexon-exterior-right-front-three-quarter-79.png
+TataModel_38,Sierra Adventure,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/punch-ev-facelift-exterior-right-front-three-quarter-2.jpg
+TataModel_39,Sierra XZ+,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-exterior-right-front-three-quarter-34.png
+TataModel_40,Sierra Dark Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-nrg-exterior-right-front-three-quarter-8.png
+TataModel_41,Tiago XT,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tigor-ev-exterior-right-front-three-quarter-4.png
+TataModel_42,Tiago XZ+,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tigor-exterior-right-front-three-quarter-25.png
+TataModel_43,Tigor XZ,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/altroz-ev-exterior-left-front-three-quarter.png
+TataModel_44,Tigor Dark Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-ev-exterior-right-front-three-quarter-58.png
+TataModel_45,Tigor XM,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-exterior-right-front-three-quarter-7.png
+TataModel_46,Nexon EV Max,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-exterior-right-front-three-quarter-34.png
+TataModel_47,Harrier Stealth Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/tiago-nrg-exterior-right-front-three-quarter-8.png
+TataModel_48,Safari Gold Edition,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/curvv-exterior-right-front-three-quarter-16.png
+TataModel_49,Punch EV Long Range,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/harrier-exterior-right-front-three-quarter-7.png
+TataModel_50,Altroz Racer,https://github.com/PlexVerse23/PowerBI-Projects/blob/main/Cars/curvv-ev-exterior-right-front-three-quarter-8.png
