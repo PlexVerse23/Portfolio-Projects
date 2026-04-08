@@ -14,8 +14,8 @@ Rather than limiting the analysis to descriptive sales reporting, this project a
 
 The project combines **Excel, SQL, and Power BI** to move from raw data to a structured, insight-driven dashboard that supports **portfolio evaluation and strategic decision-making**.
 
-> Power BI File: [`Tata_Motors_Analysis.pbix`](#)  
-> SQL Script: [`tata_motors_analysis.sql`](#)
+> Power BI File: [`Tata_Motors_Analysis.pbix`](https://github.com/PlexVerse23/Portfolio-Projects/blob/main/TATA%20Motors%20Profitability%20Problem/BI%20File/Tata_Motors_Analysis_Dashboard.pbix)  
+> SQL Script: [`tata_motors_analysis.sql`](https://github.com/PlexVerse23/Portfolio-Projects/blob/main/TATA%20Motors%20Profitability%20Problem/SQL%20Transformed/analysis_queries.sql)
 
 ---
 
@@ -25,11 +25,11 @@ Tata Motors offers a diverse vehicle portfolio across multiple markets and custo
 
 Some vehicle models may appear commercially successful on the surface while actually underperforming due to factors such as:
 
-- weak profit realization
-- inefficient pricing
-- high cost burden
-- discount dependency
-- poor product positioning
+- Weak profit realization
+- Inefficient pricing
+- High cost burden
+- Discount dependency
+- Poor product positioning
 
 This project was built to answer a core business question:
 
@@ -107,14 +107,17 @@ Excel was used primarily for **inspection and pre-processing**, while all major 
 
 ---
 
-### 2) Data Transformation & Analysis (SQL)
+### 2) Data Transformation & Analysis (SQL) - [`Queries`](https://github.com/PlexVerse23/Portfolio-Projects/blob/main/TATA%20Motors%20Profitability%20Problem/SQL%20Transformed/analysis_queries.sql)
 
 SQL was used as the **core analytical engine** of the project.
 
 #### Key work completed in SQL:
 - Filtered and structured the data into **analysis-ready views**
+    - car_financial_analysis
+    - customer_behaviour
+    - overall_performance
+    - underperformers_dataset
 - Created transformed and calculated columns such as:
-  - estimated model price
   - profit per unit
   - profitability ratios
   - model performance categories
@@ -129,6 +132,31 @@ SQL was used as the **core analytical engine** of the project.
   - financial inefficiencies
 
 A **quartile-based model classification approach** was used to segment models into meaningful performance groups.
+
+```
+CREATE VIEW overall_performance as
+select *,
+	CASE 
+		when (rev_qtr = 4 or rev_qtr = 3) and (pr_qtr = 4 or pr_qtr = 3) then 'Star'
+        when (rev_qtr = 4 or rev_qtr = 3) and (pr_qtr = 1 or pr_qtr = 2) then 'Underperformer'
+        when (rev_qtr = 1 or rev_qtr = 2) and (pr_qtr = 4 or pr_qtr = 3) then 'Niche'
+        when (rev_qtr = 1 or rev_qtr = 2) and (pr_qtr = 1 or pr_qtr = 2) then 'Weak'
+	end as performance
+    from(
+	select *,
+		ntile(4) over (order by total_revenue) as rev_qtr,
+		ntile(4) over (order by total_profit) as pr_qtr
+		from (
+		select 
+			model_id, 
+			sum(units_sold) as units_sold,
+			round(sum(total_revenue), 2) as total_revenue,
+			round(sum(profit), 2) as total_profit
+		from car_finance
+		group by model_id
+		) pp1
+	) pp2;
+  ```
 
 ---
 
@@ -146,67 +174,96 @@ The dashboard was designed to help stakeholders quickly answer:
 
 ## Dashboard Walkthrough
 
-This dashboard is structured into **three business-focused pages**, each designed to support a different layer of analysis.
+This dashboard is structured into **two business-focused pages**, each designed to support a different layer of analysis.
 
 ---
 
-### 📊 1. Executive Overview
-![Executive Overview](assets/overview.png)
+### 1. Overview
+![Overview](./dash_snaps/overview.png)
 
 Provides a high-level view of Tata Motors’ vehicle portfolio performance.
 
-#### Includes:
-- Total Revenue
-- Total Profit
-- Total Units Sold
-- Average Profit Margin
-- Number of Underperforming Models
+#### Includes KPIs:
+<p align="center">
+  <img src="./dash_snaps/KPIs1.png" alt="KPIs" width="100" height="300"/>
+</p>
 
 #### Visuals:
-- Revenue by Model
+- Sales by Model
+<p align="center">
+  <img src="./dash_snaps/sales_model.png" alt="Sales by model" width="400"/>
+</p>
+
 - Profit by Model
-- Units Sold by Model
+<p align="center">
+  <img src="./dash_snaps/profit_model.png" alt="Profit by model" width="400"/>
+</p>
+
 - Revenue vs Profit comparison
+<p align="center">
+  <img src="./dash_snaps/revenue_profit_scatter.png" alt="Revenue vs Profit Scatter" width="400"/>
+</p>
+
 - Model category breakdown
+<p align="center">
+  <img src="./dash_snaps/donut_performance.png" alt="Performance breakdown" width="400"/>
+</p>
+
+- Slicers for drill-down analysis
+#### Year-wise Slicer
+<p align="center">
+  <img src="./dash_snaps/year_slicer.png" alt="Year Slicer" width="500" height = "900"/>
+</p>
+
+#### Country-wise Slicer
+<p align="center">
+  <img src="./dash_snaps/country_slicer.png" alt="Year Slicer" width="200" />
+</p>
 
 ---
 
-### 🚨 2. Underperformer Analysis
-![Underperformer Analysis](assets/underperformer.png)
+### 2. Models Page
 
-Focused specifically on identifying models that generate strong revenue but weak financial returns.
+![Models](./dash_snaps/details.png)
 
-#### Includes:
-- Top underperforming vehicle models
-- Revenue and profit contribution of underperformers
-- Underperformers by Year
-- Underperformers by Country
+Provides a detailed **model-level analysis** of Tata Motors’ vehicle portfolio, allowing users to explore individual car models across **sales, profitability, specifications, and customer-related attributes**.
 
-#### Visuals:
-- Revenue vs Profit comparison for flagged models
-- Underperformer trend analysis
-- Country-wise underperformer concentration
-- Flagged model summary table
+#### Includes KPIs (Sales analytics and Vehicle specifications:
+<p align="center">
+  <img src="./dash_snaps/KPIs2.png" alt="Model KPIs" width="700"/>
+</p>
 
----
+<p align="center">
+  <img src="./dash_snaps/car_specs.png" alt="Car Specs" width="700"/>
+</p>
 
-### 👥 3. Customer & Product Diagnosis
-![Customer & Product Analysis](assets/specs_customer.png)
-
-Explores the potential drivers behind underperformance by combining customer behavior and product characteristics.
-
-#### Includes:
-- Discount patterns
-- Customer ratings and feedback
-- Loyalty and first-time buyer trends
-- Product positioning insights
 
 #### Visuals:
-- Underperformers by Fuel Type
-- Underperformers by Car Type
-- Safety Rating vs Performance
-- Price Band vs Profitability
-- Discount vs Profitability
+- **Yearly Sales Trend of Selected Model**
+<p align="center">
+  <img src="./dash_snaps/yearly_area.png" alt="Yearly Sales Trend" width="450"/>
+</p>
+
+
+#### Interactive Filters:
+- **Model Selector**
+<p align="center">
+  <img src="./dash_snaps/model_slicer.png" alt="Model Selector" width="220"/>
+</p>
+
+- **Country-wise Filter**
+<p align="center">
+  <img src="./dash_snaps/model_country_button.png" alt="Country Filter" width="700"/>
+</p>
+
+- **Performance Category Filter**
+  - Best use case along with the model slicer to see what models fall under a specific performance category.
+<p align="center">
+  <img src="./dash_snaps/model_perf_slicer.png" alt="Performance Filter" width="220"/>
+</p>
+
+#### Key Use Case:
+This page helps identify how a specific Tata Motors model performs across markets by combining **financial performance**, **sales trends**, and **product specifications** into one focused view.
 
 ---
 
@@ -278,7 +335,7 @@ This project reflects an end-to-end analytics workflow covering:
 
 ---
 
-## Author
+
 
 **[Your Name]**  
 Business Analytics | SQL | Power BI | Excel | Data Storytelling
