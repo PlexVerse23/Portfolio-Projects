@@ -255,7 +255,7 @@ Provides a detailed **model-level analysis** of Tata Motors’ vehicle portfolio
 - **Performance Category Filter**
   - Best use case along with the model slicer to see what models fall under a specific performance category.
 <p align="center">
-  <img src="./dash_snaps/model_perf_slicer.png" alt="Performance Filter" width="220"/>
+  <img src="./dash_snaps/model_perf_slicer.png" alt="Performance Filter" width="600"/>
 </p>
 
 #### Key Use Case:
