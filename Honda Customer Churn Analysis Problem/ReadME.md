@@ -13,7 +13,7 @@ The solution combines:
 - **Data modeling**
 - **Interactive dashboarding**
 - **Proxy churn risk analysis**
-- 
+
 ---
 
 ## Business Problem
@@ -270,7 +270,7 @@ This page provides an executive summary of Honda 2-wheeler sales performance.
 
 ### Visualizations Included:
 - #### **Donut Charts**
-  - Net Sales by Payment Mode
+  - Net Sales by Bike Segments
   - State-wise Share of Sales
 <p align="center">
   <img src="./Dash_Snaps/donut_sales.png" alt="Donut Charts" width="400"/>
