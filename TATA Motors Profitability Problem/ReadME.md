@@ -189,14 +189,10 @@ Provides a high-level view of Tata Motors’ vehicle portfolio performance.
 </p>
 
 - #### Visuals:
-	- Sales by Model
+	- Sales and Profits by Model
 <p align="center">
-  <img src="./dash_snaps/sales_model.png" alt="Sales by model" width="400"/>
-</p>
-
-	- Profit by Model
-<p align="center">
-  <img src="./dash_snaps/profit_model.png" alt="Profit by model" width="400"/>
+  <img src="./dash_snaps/sales_model.png" alt="Sales by model" width="400" height="400"/>
+	<img src="./dash_snaps/profit_model.png" alt="Profit by model" width="400" height="400"/>
 </p>
 
 - #### Revenue vs Profit comparison
@@ -271,11 +267,11 @@ This page helps identify how a specific Tata Motors model performs across market
 
 Some of the most important insights from the project include:
 
-- Certain Tata Motors models contributed significantly to **revenue** but failed to generate proportionate **profit**, indicating portfolio inefficiency.
-- Underperforming models were not necessarily low-selling products — some had strong commercial presence but weak profitability.
-- Year-wise and country-wise patterns helped identify where underperformance was more concentrated.
-- Product-level characteristics such as **car type, fuel type, pricing, and positioning** helped explain differences in financial performance.
-- Customer-side indicators such as **discount levels, ratings, and feedback** provided additional clues into why some models underperformed.
+- Several Tata Motors models delivered strong **top-line revenue** but failed to translate that into healthy **bottom-line profitability**, highlighting clear opportunities for **portfolio optimization**.
+- Underperforming models were not always low-volume vehicles; in multiple cases, commercially successful models showed **weak profit conversion**, indicating inefficiencies in **cost structure, pricing strategy, or market positioning**.
+- **Year-wise and country-wise analysis** revealed that underperformance was not uniformly distributed, helping pinpoint specific **markets and periods** where portfolio returns were weaker.
+- **Product attributes** such as **car type, fuel type, pricing band, and positioning** played a meaningful role in shaping financial outcomes, suggesting that profitability is closely linked to both **product mix and customer-market fit**.
+- **Model-level yearly sales trends**, combined with country-based filtering, enabled a clearer understanding of how individual vehicles evolved over time and where their **performance trajectory strengthened or declined** across markets.
 
 ---
 
@@ -317,25 +313,13 @@ For models that are weak across both scale and return:
 
 ---
 
-## Final Thoughts
+# Outcome
+This project demonstrates how **business intelligence, data modeling, and dashboard storytelling** can be combined to create a **business-focused portfolio project** with strong analytical and strategic relevance.
 
-This project demonstrates how business analytics can go beyond simple dashboarding to support **real portfolio-level decisions** in the automobile industry.
-
-By combining **financial performance, customer behavior, and product characteristics**, the project delivers a more complete answer to an important business question:
-
-> **Which Tata Motors models look successful on the surface but underperform where it matters most — profitability?**
-
-This project reflects an end-to-end analytics workflow covering:
-
-- **Business Problem Framing**
-- **Data Cleaning & Structuring**
-- **SQL-Based Analysis**
-- **Interactive Dashboarding**
-- **Insight Generation & Recommendation Building**
+It showcases the ability to:
+- Build and structure business-ready datasets
+- Perform model-level sales, revenue, and profitability analysis
+- Design interactive dashboards for drill-down exploration
+- Generate decision-support insights for portfolio performance evaluation
 
 ---
-
-
-
-**[Your Name]**  
-Business Analytics | SQL | Power BI | Excel | Data Storytelling
