@@ -183,41 +183,41 @@ This dashboard is structured into **two business-focused pages**, each designed 
 
 Provides a high-level view of Tata Motors’ vehicle portfolio performance.
 
-#### Includes KPIs:
+-#### Includes KPIs:
 <p align="center">
   <img src="./dash_snaps/KPIs1.png" alt="KPIs" width="100" height="300"/>
 </p>
 
-#### Visuals:
-- Sales by Model
+-#### Visuals:
+	- Sales by Model
 <p align="center">
   <img src="./dash_snaps/sales_model.png" alt="Sales by model" width="400"/>
 </p>
 
-- Profit by Model
+	- Profit by Model
 <p align="center">
   <img src="./dash_snaps/profit_model.png" alt="Profit by model" width="400"/>
 </p>
 
-- Revenue vs Profit comparison
+-#### Revenue vs Profit comparison
 <p align="center">
   <img src="./dash_snaps/revenue_profit_scatter.png" alt="Revenue vs Profit Scatter" width="400"/>
 </p>
 
-- Model category breakdown
+-#### Model category breakdown
 <p align="center">
   <img src="./dash_snaps/donut_performance.png" alt="Performance breakdown" width="400"/>
 </p>
 
-- Slicers for drill-down analysis
+-#### Slicers for drill-down analysis
 #### Year-wise Slicer
 <p align="center">
   <img src="./dash_snaps/year_slicer.png" alt="Year Slicer" width="500" height = "900"/>
 </p>
 
-#### Country-wise Slicer
+-#### Country-wise Slicer
 <p align="center">
-  <img src="./dash_snaps/country_slicer.png" alt="Year Slicer" width="200" />
+  <img src="./dash_snaps/country_slicer.png" alt="Country Slicer" width="200" />
 </p>
 
 ---
