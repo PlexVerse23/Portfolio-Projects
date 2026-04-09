@@ -99,7 +99,7 @@ An **n8n automation workflow** was built to keep the reporting system live and r
 
 #### Database hosted on Adminer server
 <p align="center">
-  <img src="./Dash_Snaps/dataset.png" alt="Automation workflow" width="1000"/>
+  <img src="./Dash_Snaps/dataset.png" alt="Dataset" width="1000"/>
 </p>
 
 ### Business Value:
