@@ -1,7 +1,7 @@
 # Tata Motors Portfolio Profitability Analysis
 
 <p align="center">
-  <img src="./dash_snaps/home.png" alt="KPIs"/>
+  <img src="./dash_snaps/home.png" alt="Home Page"/>
 </p>
 
 ---
