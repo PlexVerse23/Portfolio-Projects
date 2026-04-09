@@ -263,6 +263,9 @@ This page helps identify how a specific Tata Motors model performs across market
 
 ---
 
+### 3. Data Model
+![Data Model](./dash_snaps/data_model.png)
+
 ## Key Insights
 
 Some of the most important insights from the project include:
