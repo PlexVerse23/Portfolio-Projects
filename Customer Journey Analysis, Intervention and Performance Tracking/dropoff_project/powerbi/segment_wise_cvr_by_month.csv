@@ -1,0 +1,16 @@
+segment,month_num,total_users,total_conversions,conversion_rate
+Email,1,214,15,7.01
+Email,2,206,22,10.68
+Email,3,192,11,5.73
+Organic,1,661,63,9.53
+Organic,2,611,62,10.15
+Organic,3,613,47,7.67
+Paid_Search,1,548,33,6.02
+Paid_Search,2,480,19,3.96
+Paid_Search,3,499,24,4.81
+Referral,1,394,43,10.91
+Referral,2,363,40,11.02
+Referral,3,419,46,10.98
+Social,1,296,11,3.72
+Social,2,275,8,2.91
+Social,3,312,14,4.49
