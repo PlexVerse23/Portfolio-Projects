@@ -241,7 +241,7 @@ chi2, p_value, dof, expected = chi2_contingency(contingency)
 ### 5) Dashboard : Power BI
 
 <p align="center">
-  <img src="./snaps/overview.png" alt="Home Page" width="800"/>
+  <img src="./snaps/overview.png"  width="800"/>
 </p>
 
 A three-page interactive dashboard was built to communicate findings to stakeholders.
