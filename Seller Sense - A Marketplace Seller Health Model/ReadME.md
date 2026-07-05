@@ -1,7 +1,7 @@
-# SellerSense AI Copilot
+# SellerSense AI Copilot - Seller Health Diagnosis Model
 
 <p align="center">
-  <img src="./Dash_Snaps/home.png" alt="Home Page" width="1000"/>
+  <img src="./snaps/home.png" alt="Home Page" width="800"/>
 </p>
 
 ## Project Overview
@@ -526,7 +526,7 @@ Same logic applied to delivery rate and order volume.
 ## 3) n8n — AI Copilot Automation Pipeline
 
 <p align="center">
-  <img src="./Dash_Snaps/n8n_workflow.png" alt="n8n Workflow" width="1000"/>
+  <img src="./snaps/workflow.png" alt="Home Page" width="1000"/>
 </p>
 
 An **n8n automation workflow** runs weekly and processes the 258 flagged sellers through an AI agent.
@@ -569,51 +569,80 @@ The agent returns structured JSON:
 
 ## 4) Power BI Dashboard
 
-### Page 1 — Platform Health Overview
-- KPI cards: total active sellers, % in each segment, avg platform health score
-- Donut chart: segment distribution
-- Line chart: month-over-month segment migration
-- Bar chart: health score by category and state
+### Page 1 – Sellers Health Snapshot
 
-### Page 2 — At-Risk Radar
-- Seller table: health score, top declining metric, days since flagged
-- Scatter plot: review score trend vs delivery trend (quadrant view)
-- State map: concentration of at-risk sellers (flags regional logistics issues)
+<p align="center">
+  <img src="./snaps/snapshot.png" alt="Home Page" width="800"/>
+</p>
 
-### Page 3 — AI Copilot Intervention Queue
-- AI diagnosis category breakdown (what's causing declines platform-wide this month)
-- Intervention queue table (ops team weekly to-do list, AI-generated)
-- Outcome tracker: did intervened sellers improve their health score next month?
+- Presents a high-level overview of marketplace seller health.
+- Tracks key KPIs including seller count, health score, revenue at risk, and early warning signals.
+- Identifies high-risk categories and geographic hotspots for operational intervention.
+
+---
+
+### Page 2 – Why are Metrics Deteriorating?
+
+<p align="center">
+  <img src="./snaps/analysis.png" alt="Home Page" width="800"/>
+</p>
+
+- Explains how delivery performance and customer reviews impact seller health.
+- Quantifies the effect of declining operational metrics on order volume.
+- Highlights key early warning indicators for proactive intervention.
+
+---
+
+### Page 3 – Diagnosis by SellerSense AI
+
+<p align="center">
+  <img src="./snaps/report.png" alt="Home Page" width="800"/>
+</p>
+
+- Summarizes AI-generated insights for flagged at-risk sellers.
+- Highlights revenue impact, affected categories, and regional concentration.
+- Prioritizes intervention opportunities using data-driven recommendations.
+
+---
+
+### Page 4 – Sellers Drill Down Analysis
+
+<p align="center">
+  <img src="./snaps/drill_down.png" alt="Home Page" width="800"/>
+</p>
+
+- Enables seller-level investigation through an interactive drill-down view.
+- Displays health score, operational metrics, AI-generated diagnosis, and intervention plan.
+- Supports targeted actions for individual at-risk sellers.
 
 ---
 
 # Key Findings
 
-## Finding 1 — The Sudden Collapse Pattern
+## Finding 1 : The Sudden Collapse Pattern
 Dormant sellers do not gradually decline across all metrics. Review score and delivery rate remain stable until the **final month**, where they collapse simultaneously. This points to a single triggering event rather than a slow burn — changing the intervention strategy from "watch for gradual decline" to "catch any sharp single-month drop immediately."
 
-## Finding 2 — Order Volume is a Gradual Leading Indicator
+## Finding 2 : Order Volume is a Gradual Leading Indicator
 While review and delivery crash suddenly, **order volume shows consistent decline across 6 months** before dormancy. This gives ops teams an early window to act before the full collapse.
 
-## Finding 3 — Two-Phase Intervention Playbook
+## Finding 3 : Two-Phase Intervention Playbook
 - **Phase 1 (6 months out):** Catch gradual order volume decline → proactive seller support
 - **Phase 2 (final month):** Simultaneous review + delivery crash = critical emergency alert
 
-## Finding 4 — Review Score is the #1 Warning Trigger
+## Finding 4 : Review Score is the #1 Warning Trigger
 41% of all sharp drop alerts were triggered by review score alone — validating the 30% weight assigned to it in the health score formula. Review score is the first metric to reflect seller problems before they escalate.
 
-## Finding 5 — Platform Health Snapshot
+## Finding 5 : Platform Health Snapshot
 26% Star Performers, 50% Stable, 14% At-Risk, 10% Dormant. **258 sellers** are active intervention targets — actionable at scale without overwhelming the ops team.
 
 ---
 
 # Key Analytical Decisions
 
-- **SQLite over MySQL:** MySQL's import wizard silently truncated 99k rows to 4,472. SQLite imported all records instantly with zero configuration.
 - **Minimum 10 lifetime orders:** Sellers with fewer orders have insufficient trend data for meaningful health scoring.
 - **Median imputation for NULLs:** Used median over mean to avoid outlier skew in delivery performance and review score distributions.
 - **Percentile-based thresholds:** Fixed thresholds (75/50/25) pushed 95% of sellers into two buckets. Percentile-calibrated thresholds give a meaningful, actionable segment distribution.
-- **Standard deviation flagging:** Compares each seller against their own volatility baseline — a drop that's alarming for a consistent seller may be normal for an inconsistent one. Reduces false positives.
+- **Standard deviation flagging:** Compares each seller against their own volatility baseline, a drop that's alarming for a consistent seller may be normal for an inconsistent one. Reduces false positives.
 - **Rule-based segmentation over K-Means:** Explainable to ops teams, stable across runs, and auditable. K-Means used only for validation, not production logic.
 
 ---
@@ -622,9 +651,9 @@ While review and delivery crash suddenly, **order volume shows consistent declin
 
 - Deploy the 6-week order volume monitoring window as an early intervention trigger
 - Automate first-touch seller outreach using AI-generated personalized messages (human-approved before sending)
-- Use systemic pattern detection (3+ sellers same category declining) as a feedback loop to product and policy teams — individual seller interventions won't fix platform-level issues
-- Build a 90-day intensive onboarding program for new sellers — highest churn risk cohort
-- Adjust health scoring to account for regional logistics baselines — don't penalize sellers for infrastructure issues outside their control
+- Use systemic pattern detection (3+ sellers same category declining) as a feedback loop to product and policy teams, individual seller interventions won't fix platform-level issues
+- Build a 90-day intensive onboarding program for new sellers, highest churn risk cohort
+- Adjust health scoring to account for regional logistics baselines, don't penalize sellers for infrastructure issues outside their control
 
 ---
 
@@ -633,13 +662,10 @@ While review and delivery crash suddenly, **order volume shows consistent declin
 ## 1) No Real-Time Seller Data
 Olist is a historical dataset, not a live feed. The n8n pipeline simulates a live weekly ingestion by treating new monthly data as incoming records fed via Google Sheets.
 
-## 2) MySQL Import Failure
-MySQL Workbench's import wizard silently stopped at 4,472 rows from a 99k row CSV. Resolved by switching to SQLite (DB Browser) which imported all records without configuration.
+## 2) Threshold Calibration
+Generic health score thresholds failed to produce meaningful segment distribution, 95% of sellers landed in two buckets. Required percentile analysis of actual score distribution to set business-relevant boundaries.
 
-## 3) Threshold Calibration
-Generic health score thresholds failed to produce meaningful segment distribution — 95% of sellers landed in two buckets. Required percentile analysis of actual score distribution to set business-relevant boundaries.
-
-## 4) Seller Volatility in Flagging
+## 3) Seller Volatility in Flagging
 A simple "below average" flag generated too many false positives for volatile sellers. Standard deviation-adjusted flagging personalized the threshold to each seller's own behavior pattern.
 
 ---
