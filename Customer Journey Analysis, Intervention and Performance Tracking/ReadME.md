@@ -1,4 +1,8 @@
-# Booking Funnel Drop-off Analysis — Travel & Hospitality
+# Booking Funnel Drop-off Analysis : Travel & Hospitality
+
+<p align="center">
+  <img src="./snaps/home.png" alt="Home Page" width="800"/>
+</p>
 
 ## Project Overview
 
@@ -65,7 +69,7 @@ Stage 1          Stage 2       Stage 3          Stage 4           Stage 5       
                                Selection)         Details)
 ```
 
-Users enter through various acquisition channels — Organic Search, Paid Ads, Referral, Social Media, and Email Campaigns — and are tracked across each stage until conversion or drop-off.
+Users enter through various acquisition channels : Organic Search, Paid Ads, Referral, Social Media, and Email Campaigns, and are tracked across each stage until conversion or drop-off.
 
 ---
 
@@ -90,19 +94,19 @@ The dataset consists of **12,000 booking journey records** spanning 6 months (Ja
 
 ## Workflow
 
-### 1) Data Transformation — Python
+### 1) Data Transformation : Python
 
 Raw data required feature engineering before analysis. The following columns were derived in Python:
 
-- `exit_stage` — the last stage a user reached before dropping off
-- `converted` — binary flag (1 = completed booking, 0 = dropped)
-- `reached_stage2` through `reached_stage5` — binary progression flags per stage
+- `exit_stage` - the last stage a user reached before dropping off
+- `converted` - binary flag (1 = completed booking, 0 = dropped)
+- `reached_stage2` through `reached_stage5` - binary progression flags per stage
 
 This transformation was done manually to ensure full ownership of the logic before importing into MySQL for analysis.
 
 ---
 
-### 2) Funnel Analysis — MySQL
+### 2) Funnel Analysis : MySQL
 
 Eight core SQL queries were written to systematically break down the funnel:
 
@@ -117,7 +121,7 @@ Eight core SQL queries were written to systematically break down the funnel:
 
 ---
 
-### 3) Root Cause Analysis — MySQL
+### 3) Root Cause Analysis : MySQL
 
 A dedicated set of queries focused specifically on the identified bottleneck stage (Stage 3 → Stage 4) to diagnose:
 
@@ -199,7 +203,7 @@ order by segment, month_num;
 
 ---
 
-### 4) Statistical Validation — Python
+### 4) Statistical Validation : Python
 
 To ensure findings were not the result of random variation in the data, two statistical tests were conducted:
 
@@ -216,7 +220,7 @@ p_value = 2 * (1 - norm.cdf(abs(z)))
 ```
 
 **Result:** Z = 6.538 | P-value ≈ 0.000000
-**Interpretation:** The improvement in conversion rate post-intervention was statistically significant — not random noise.
+**Interpretation:** The improvement in conversion rate post-intervention was statistically significant, not random noise.
 
 #### Chi-Square Test
 **Question:** Is the drop-off at Stage 3→4 dependent on which acquisition channel the user came from?
@@ -230,29 +234,59 @@ chi2, p_value, dof, expected = chi2_contingency(contingency)
 ```
 
 **Result:** χ² = 14.511 | P-value = 0.0058 | Degrees of Freedom = 4
-**Interpretation:** Acquisition channel significantly influences whether a user drops off at Stage 3→4 — confirming that the segment-level differences observed were real and actionable.
+**Interpretation:** Acquisition channel significantly influences whether a user drops off at Stage 3→4 -> confirming that the segment-level differences observed were real and actionable.
 
 ---
 
-### 5) Dashboard — Power BI
+### 5) Dashboard : Power BI
+
+<p align="center">
+  <img src="./snaps/overview.png" alt="Home Page" width="800"/>
+</p>
 
 A three-page interactive dashboard was built to communicate findings to stakeholders.
 
-#### Page 1 — Funnel Overview
-Executive summary of the booking funnel performance with full slicer control for period, segment, device, and region.
+### Page 1 : Overview (Pre & Post Intervention)
+> **Single page with a slicer to switch between Pre-Intervention and Post-Intervention views.**
 
-#### Page 2 — Root Cause Analysis
-Segment and device level breakdown of drop-off at the critical stage, with heatmap and monthly trend visuals.
+| Pre-Intervention | Post-Intervention |
+|:----------------:|:-----------------:|
+| <img src="./snaps/pre.png" width="100%"> | <img src="./snaps/post.png" width="100%"> |
 
-#### Page 3 — Before vs After
-Pre vs Post intervention comparison across all KPIs, with monthly trend line marking the intervention date and incremental conversion calculation.
+- Compares overall funnel performance before and after implementing recommendations.
+- Tracks Conversion Rate (CVR), Stage 3 → 4 conversion, and customer journey funnel.
+- Measures improvements in drop-off rates across each booking stage.
+
+---
+
+### Page 2 : Root Cause Analysis
+
+<p align="center">
+  <img src="./snaps/root_cause_analysis.png"  width="800"/>
+</p>
+
+- Identifies the primary reasons behind customer drop-offs.
+- Analyzes conversion performance across acquisition channels and devices.
+- Highlights the worst-performing traffic sources and optimization opportunities.
+
+---
+
+### Page 3 : Intervention Impact Summary
+
+<p align="center">
+  <img src="./snaps/impact_result.png"  width="800"/>
+</p>
+
+- Quantifies the business impact after implementing recommended actions.
+- Compares pre vs post KPIs including CVR, stage-wise drop-offs, and incremental conversions.
+- Summarizes key improvements and recommendations adopted during the intervention.
 
 ---
 
 ## Key Findings
 
 ### Primary Bottleneck
-**Stage 3 → Stage 4** (Property Selection → Booking Details) was identified as the critical drop-off point — over **50% of users who reached Stage 3 did not proceed to Stage 4**. Every other stage transition was significantly healthier.
+**Stage 3 → Stage 4** (Property Selection → Booking Details) was identified as the critical drop-off point -> over **50% of users who reached Stage 3 did not proceed to Stage 4**. Every other stage transition was significantly healthier.
 
 ### Acquisition Channel Analysis
 Normalizing by base users at Stage 3 revealed the true picture:
@@ -265,19 +299,19 @@ Normalizing by base users at Stage 3 revealed the true picture:
 | Referral | 54.95% |
 | Email | 53.88% |
 
-> Raw counts were misleading — Organic appeared worst in absolute numbers but Paid Search and Social were significantly worse once normalized by segment size.
+> Raw counts were misleading, Organic appeared worst in absolute numbers but Paid Search and Social were significantly worse once normalized by segment size.
 
 ### Device Analysis
-Tablet users showed disproportionately high drop-off **across all channels**, pointing to a UI/UX issue specific to tablet at Stage 3→4 — independent of user intent.
+Tablet users showed disproportionately high drop-off **across all channels**, pointing to a UI/UX issue specific to tablet at Stage 3→4, independent of user intent.
 
 ### Worst Performing Combination
-**Paid Search + Tablet** — 69.77% drop-off rate at Stage 3→4.
+**Paid Search + Tablet** - 69.77% drop-off rate at Stage 3→4.
 
 ### Best Performing Combination
-**Referral + Desktop** — 50.67% drop-off rate at Stage 3→4, consistently the strongest segment throughout.
+**Referral + Desktop** - 50.67% drop-off rate at Stage 3→4, consistently the strongest segment throughout.
 
 ### Monthly Trend (Pre-Intervention)
-Overall CVR declined from **7.81% in January to 6.98% in March**, with Paid Search dropping sharply from 6.02% to 3.96% — adding urgency to the need for intervention.
+Overall CVR declined from **7.81% in January to 6.98% in March**, with Paid Search dropping sharply from 6.02% to 3.96% - adding urgency to the need for intervention.
 
 ---
 
@@ -287,7 +321,7 @@ Overall CVR declined from **7.81% in January to 6.98% in March**, with Paid Sear
 This is the highest-priority fix. The jump from selecting a trip to filling booking details is where users hesitate. Recommended actions:
 - Reduce the number of required fields at this step
 - Enable progress saving so users can return without restarting
-- Add trust signals — security badges, reviews, "X people booked this today"
+- Add trust signals - security badges, reviews, "X people booked this today"
 
 **2. Fix the tablet UI at Stage 3→4**
 Tablet drop-off is a device-specific problem, not a user intent problem. The booking details form likely has rendering or usability issues on tablet screens. This is a quick technical fix with measurable impact.
@@ -311,8 +345,8 @@ The intervention launched on April 1, 2024 included: simplified booking details 
 |--------|-----------------|-------------------|--------|
 | Overall CVR | 7.53% | 10.99% | **+3.46 ppt** |
 | Stage 3→4 Drop-off | ~58% | ~45% | **−13 ppt** |
-| Incremental Bookings | — | +204 | **+46% relative lift** |
-| Statistical Significance | — | p < 0.001 | **✓ Confirmed** |
+| Incremental Bookings | - | +204 | **+46% relative lift** |
+| Statistical Significance | - | p < 0.001 | **✓ Confirmed** |
 
 Every acquisition segment showed improvement post-intervention, confirming that the fixes addressed a structural funnel problem rather than a channel-specific one.
 
@@ -346,7 +380,7 @@ RETURN PostConv - ROUND(PostUsers * PreRate, 0)
 
 ## Project Outcome
 
-This project demonstrates how a structured analytical approach — funnel mapping, segmentation, statistical validation, and stakeholder reporting — can convert raw transactional data into clear business decisions.
+This project demonstrates how a structured analytical approach : funnel mapping, segmentation, statistical validation, and stakeholder reporting, can convert raw transactional data into clear business decisions.
 
 It showcases the ability to:
 - Diagnose where and why a business is losing customers
