@@ -435,7 +435,7 @@ Same logic applied to `total_orders` and `on_time_delivery_pct`.
 
 ---
 
-## 2) Python — Health Score Engine
+## 2) Python : Health Score Engine
 
 ### Step 1: Normalization (Min-Max Scaling 0–100)
 
@@ -569,10 +569,14 @@ The agent returns structured JSON:
 
 ## 4) Power BI Dashboard
 
+<p align="center">
+  <img src="./snaps/overview.png"  width="800"/>
+</p>
+
 ### Page 1 – Sellers Health Snapshot
 
 <p align="center">
-  <img src="./snaps/snapshot.png" alt="Home Page" width="800"/>
+  <img src="./snaps/snapshot.png"  width="800"/>
 </p>
 
 - Presents a high-level overview of marketplace seller health.
@@ -584,7 +588,7 @@ The agent returns structured JSON:
 ### Page 2 – Why are Metrics Deteriorating?
 
 <p align="center">
-  <img src="./snaps/analysis.png" alt="Home Page" width="800"/>
+  <img src="./snaps/analysis.png"  width="800"/>
 </p>
 
 - Explains how delivery performance and customer reviews impact seller health.
@@ -596,7 +600,7 @@ The agent returns structured JSON:
 ### Page 3 – Diagnosis by SellerSense AI
 
 <p align="center">
-  <img src="./snaps/report.png" alt="Home Page" width="800"/>
+  <img src="./snaps/report.png"  width="800"/>
 </p>
 
 - Summarizes AI-generated insights for flagged at-risk sellers.
@@ -608,7 +612,7 @@ The agent returns structured JSON:
 ### Page 4 – Sellers Drill Down Analysis
 
 <p align="center">
-  <img src="./snaps/drill_down.png" alt="Home Page" width="800"/>
+  <img src="./snaps/drill_down.png"  width="800"/>
 </p>
 
 - Enables seller-level investigation through an interactive drill-down view.
