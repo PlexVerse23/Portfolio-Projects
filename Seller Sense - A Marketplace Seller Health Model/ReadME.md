@@ -18,12 +18,12 @@ The solution combines:
 
 ## Business Problem
 
-In a marketplace like Meesho, thousands of sellers — mostly first-time micro-entrepreneurs — list and sell products daily. Seller ops teams currently work **reactively**: by the time a seller's ratings crash and order volume drops, the damage is already done.
+In a marketplace like Meesho, thousands of sellers, mostly first-time micro-entrepreneurs, list and sell products daily. Seller ops teams currently work **reactively**: by the time a seller's ratings crash and order volume drops, the damage is already done.
 
 Key questions this project answers:
 
 - Which sellers are at risk of going dormant before it actually happens?
-- What metric is declining first — reviews, delivery, or order volume?
+- What metric is declining first-> reviews, delivery, or order volume?
 - Which sellers need immediate intervention vs. just monitoring?
 - What specific action should the ops team take for each at-risk seller?
 - Are multiple sellers in the same category declining together (systemic issue)?
@@ -43,7 +43,7 @@ Key questions this project answers:
 
 ## Tech Stack
 
-- **SQL (SQLite)** — Metric engineering and aggregation pipeline
+- **SQL (MySQL)** — Metric engineering and aggregation pipeline
 - **Python** — Health scoring, segmentation, early warning analysis (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - **n8n** — Workflow automation and AI agent orchestration
 - **Groq API (LLaMA 3)** — AI-generated seller diagnosis and intervention
@@ -55,7 +55,7 @@ Key questions this project answers:
 ## Dataset Information
 
 **Primary Dataset:** Olist Brazilian E-Commerce Dataset (Kaggle)
-Used as a Meesho marketplace proxy — small sellers, varied categories, review-driven trust system, delivery-dependent buyer experience.
+Used as a Meesho marketplace proxy -> small sellers, varied categories, review-driven trust system, delivery-dependent buyer experience.
 
 **Tables Used (6):**
 
@@ -74,9 +74,9 @@ Used as a Meesho marketplace proxy — small sellers, varied categories, review-
 
 # Workflow
 
-## 1) SQL — Metric Engineering Pipeline
+## 1) SQL : Metric Engineering Pipeline
 
-A 7-CTE SQL pipeline was built in SQLite to transform raw order-level data into a seller monthly metrics table.
+A 7-CTE SQL pipeline was built in MYSQL to transform raw order-level data into a seller monthly metrics table.
 
 ### CTE Architecture
 
